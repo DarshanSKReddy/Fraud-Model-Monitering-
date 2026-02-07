@@ -1,0 +1,33 @@
+DATA DRIFT REPORT (PSI + KS TEST)
+========================================
+
+Feature: amount
+  PSI        : 0.0
+  KS stat    : 0.153
+  KS p-value : 0.0
+  Drift     : YES
+
+Feature: transaction_hour
+  PSI        : 0.0
+  KS stat    : 0.0
+  KS p-value : 1.0
+  Drift     : NO
+
+Feature: device_trust_score
+  PSI        : 0.0
+  KS stat    : 0.0
+  KS p-value : 1.0
+  Drift     : NO
+
+Feature: velocity_last_24h
+  PSI        : 0.0
+  KS stat    : 0.532
+  KS p-value : 0.0
+  Drift     : YES
+
+Feature: cardholder_age
+  PSI        : 0.0
+  KS stat    : 0.0
+  KS p-value : 1.0
+  Drift     : NO
+

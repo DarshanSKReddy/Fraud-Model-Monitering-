@@ -1,0 +1,13 @@
+
+[2026-02-06 03:32:20] COST ANALYSIS REPORT
+True Positives  : 137
+False Positives : 0
+False Negatives : 14
+True Negatives  : 9849
+
+Cost (False Negatives): ₹140000
+Cost (False Positives): ₹0
+Total Cost with Model: ₹140000
+
+Estimated Cost without Model: ₹1510000
+Net Savings using Model: ₹1370000

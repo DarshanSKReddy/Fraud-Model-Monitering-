@@ -1,0 +1,6 @@
+
+[2026-02-06 00:02:08] ALERTS TRIGGERED
+
+[2026-02-06 00:03:04] ALERTS TRIGGERED
+DRIFT DETECTED in feature 'amount' (PSI=0.0, KS_p=0.0)
+DRIFT DETECTED in feature 'velocity_last_24h' (PSI=0.0, KS_p=0.0)

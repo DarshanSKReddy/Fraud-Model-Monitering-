@@ -1,0 +1,59 @@
+[2026-02-06 03:35:19] TRANSACTION EXPLANATIONS
+=============================================
+
+Transaction ID: 58
+Reasons for fraud prediction:
+- Foreign transaction
+- Location mismatch detected
+- Low device trust score
+
+Transaction ID: 122
+Reasons for fraud prediction:
+- High transaction amount
+- Foreign transaction
+- Low device trust score
+
+Transaction ID: 124
+Reasons for fraud prediction:
+- Foreign transaction
+- Location mismatch detected
+- Low device trust score
+
+Transaction ID: 289
+Reasons for fraud prediction:
+- Foreign transaction
+- High transaction velocity
+
+Transaction ID: 378
+Reasons for fraud prediction:
+- Location mismatch detected
+- Low device trust score
+- High transaction velocity
+
+Transaction ID: 402
+Reasons for fraud prediction:
+- High transaction amount
+- Foreign transaction
+- Location mismatch detected
+- High transaction velocity
+
+Transaction ID: 436
+Reasons for fraud prediction:
+- Low device trust score
+- High transaction velocity
+
+Transaction ID: 444
+Reasons for fraud prediction:
+- Foreign transaction
+- Low device trust score
+
+Transaction ID: 539
+Reasons for fraud prediction:
+- Low device trust score
+- High transaction velocity
+
+Transaction ID: 552
+Reasons for fraud prediction:
+- Foreign transaction
+- Low device trust score
+

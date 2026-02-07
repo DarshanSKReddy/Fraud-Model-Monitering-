@@ -1,0 +1,11 @@
+[2026-02-06 03:35:19] GLOBAL FEATURE IMPORTANCE
+=============================================
+
+device_trust_score: 0.0136
+transaction_hour: 0.0136
+foreign_transaction: 0.0084
+location_mismatch: 0.0070
+velocity_last_24h: 0.0062
+merchant_category: 0.0020
+amount: 0.0012
+cardholder_age: 0.0010
