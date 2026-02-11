@@ -1,0 +1,55 @@
+{
+  "train_size": 8000,
+  "test_size": 2000,
+  "fraud_rate": 0.015,
+  "cv_accuracy_mean": 0.985,
+  "cv_accuracy_std": 0.000684653196881443,
+  "cv_precision_mean": 0.5,
+  "cv_recall_mean": 0.025,
+  "cv_roc_auc_mean": 0.6401253172588832,
+  "test_roc_auc": 0.6210321489001692,
+  "confusion_matrix": [
+    [
+      1970,
+      0
+    ],
+    [
+      30,
+      0
+    ]
+  ],
+  "top_features": [
+    {
+      "feature": "device_trust_score",
+      "importance": 0.22987580790995935
+    },
+    {
+      "feature": "amount",
+      "importance": 0.17126830858157904
+    },
+    {
+      "feature": "cardholder_age",
+      "importance": 0.16040603915284346
+    },
+    {
+      "feature": "transaction_hour",
+      "importance": 0.1333437785496792
+    },
+    {
+      "feature": "velocity_last_24h",
+      "importance": 0.12395808469349376
+    },
+    {
+      "feature": "merchant_category",
+      "importance": 0.07978809722874486
+    },
+    {
+      "feature": "location_mismatch",
+      "importance": 0.06825032556618593
+    },
+    {
+      "feature": "foreign_transaction",
+      "importance": 0.03310955831751444
+    }
+  ]
+}
