@@ -1,13 +1,60 @@
+# COST-SENSITIVE THRESHOLD OPTIMIZATION REPORT
+Generated: 2026-02-12 19:27:57.237551
 
-[2026-02-06 03:32:20] COST ANALYSIS REPORT
-True Positives  : 137
-False Positives : 0
-False Negatives : 14
-True Negatives  : 9849
+## Business Cost Parameters
+- Cost of False Negative (Missed Fraud): $100.00
+  (Chargeback liability + investigation cost)
+- Cost of False Positive (False Alarm): $5.00
+  (Customer friction + transaction decline cost)
 
-Cost (False Negatives): ₹140000
-Cost (False Positives): ₹0
-Total Cost with Model: ₹140000
+## Optimal Threshold Analysis
+- **Recommended Threshold: 0.290**
+- **Minimum Total Cost: $15100.00**
+- Cost per fraud detected: $100.00
 
-Estimated Cost without Model: ₹1510000
-Net Savings using Model: ₹1370000
+## Cost Comparison
+- Default Threshold (0.5) Cost: $15100.00
+- Potential Savings: $0.00 (0.0%)
+
+## Performance at Optimal Threshold
+Confusion Matrix:
+  - True Positives (Frauds Caught): 0
+  - False Positives (False Alarms): 0
+  - True Negatives (Correct Approvals): 9849
+  - False Negatives (Missed Frauds): 151
+
+Key Metrics:
+  - Fraud Detection Rate (Recall): 0.0000 (0.00%)
+  - Precision (Accuracy of positive predictions): 0.0000 
+  - ROC-AUC Score: 0.5607
+
+## Cost Breakdown
+- False Negative Cost: $15100.00 (151 missed frauds × $100.0)
+- False Positive Cost: $0.00 (0 false alarms × $5.0)
+- **Total Operating Cost: $15100.00**
+
+## Recommendations
+1. **Threshold Update**: Change decision threshold from 0.5 to 0.290
+   - Reduces total operational cost by 0.0%
+   - Balances fraud detection vs. customer friction
+
+2. **Monitoring**: Track false positive rate weekly
+   - Target: 0.0% precision (minimize customer disruption)
+   - Ensure fraud detection rate ≥ 0.0%
+
+3. **Customer Communication**: Prepare for 0 potential false alarms per 10000 transactions
+   - Reduced verification time with new threshold
+   - Improved customer experience
+
+4. **Cost Recovery**: Monitor chargebacks and costs monthly
+   - Expected savings: $0.00
+   - Adjust threshold if fraud patterns change
+
+## Implementation Steps
+1. Update model serving code to use threshold 0.290
+2. Deploy to fraud detection API/pipeline
+3. Monitor precision and recall in production
+4. Re-optimize threshold monthly with new data
+
+---
+Report Generated: 2026-02-12 19:27:57

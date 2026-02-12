@@ -1,0 +1,22 @@
+{
+  "optimal_threshold": 0.29000000000000004,
+  "optimal_cost": 15100.0,
+  "cost_per_fraud": 100.0,
+  "savings_vs_default": 0.0,
+  "savings_percent": 0.0,
+  "confusion_matrix": {
+    "tn": 9849,
+    "fp": 0,
+    "fn": 151,
+    "tp": 0
+  },
+  "recall": 0.0,
+  "precision": 0.0,
+  "roc_auc": 0.5607003501212683,
+  "cost_fn_total": 15100.0,
+  "cost_fp_total": 0.0,
+  "business_costs": {
+    "cost_false_negative": 100.0,
+    "cost_false_positive": 5.0
+  }
+}

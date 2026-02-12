@@ -1,0 +1,38 @@
+{
+  "features": [
+    {
+      "name": "device_trust_score",
+      "importance": 0.22987580790995935
+    },
+    {
+      "name": "amount",
+      "importance": 0.17126830858157904
+    },
+    {
+      "name": "cardholder_age",
+      "importance": 0.16040603915284346
+    },
+    {
+      "name": "transaction_hour",
+      "importance": 0.1333437785496792
+    },
+    {
+      "name": "velocity_last_24h",
+      "importance": 0.12395808469349376
+    },
+    {
+      "name": "merchant_category",
+      "importance": 0.07978809722874486
+    },
+    {
+      "name": "location_mismatch",
+      "importance": 0.06825032556618593
+    },
+    {
+      "name": "foreign_transaction",
+      "importance": 0.03310955831751444
+    }
+  ],
+  "total_features": 8,
+  "model_type": "Random Forest Classifier"
+}

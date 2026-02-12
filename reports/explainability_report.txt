@@ -1,0 +1,68 @@
+# MODEL EXPLAINABILITY REPORT
+Generated: 2026-02-12 19:28:32.917458
+
+## Feature Importance Analysis
+The model learned to detect fraud using the following key patterns:
+
+### Top 5 Most Important Features
+
+1. **device_trust_score** (0.2299)
+   - Fraudsters often use untrusted devices
+   - This is the strongest signal in the model
+
+2. **amount** (0.1713)
+   - Transaction amount indicates fraud likelihood
+   - Unusual amounts (very high/low) may indicate fraud
+
+3. **cardholder_age** (0.1604)
+   - Age influences fraud susceptibility
+   - Age-based spending patterns are distinct
+
+4. **transaction_hour** (0.1333)
+   - Fraud often occurs at unusual times
+   - Time-of-day patterns help identify anomalies
+
+5. **velocity_last_24h** (0.1240)
+   - Multiple transactions in short time = fraud signal
+   - Unusual activity velocity is a strong indicator
+
+
+## All Features Ranked by Importance
+ 1. device_trust_score             0.229876
+ 2. amount                         0.171268
+ 3. cardholder_age                 0.160406
+ 4. transaction_hour               0.133344
+ 5. velocity_last_24h              0.123958
+ 6. merchant_category              0.079788
+ 7. location_mismatch              0.068250
+ 8. foreign_transaction            0.033110
+
+
+## Model Interpretation
+- **Model Type**: Random Forest Classifier (100 trees)
+- **Total Features**: 8
+- **Feature Encoding**: Categorical features label-encoded
+
+## How Fraud Detection Works
+1. Device Trust Score: Highest weight - fraudsters use untrusted devices
+2. Transaction Amount: Size of transaction is informative
+3. Cardholder Age: Age-based spending patterns are distinct
+4. Transaction Hour: Fraud often happens at unusual hours
+5. Velocity: Multiple transactions quickly signal fraud
+
+## Recommendations for Business
+1. **High Priority**: Monitor device trust scores
+   - Require additional verification for low trust devices
+   - Adjust device trust calculation based on feedback
+
+2. **Medium Priority**: Review transaction amounts
+   - Set category-specific limits
+   - Flag large deviations from customer average
+
+3. **Continuous Monitoring**: Track feature distributions
+   - Watch for shifts in customer behavior
+   - Update model quarterly with new patterns
+
+## Feature Stability
+Features show stable distributions across the dataset, indicating 
+the model should generalize well to new data.
