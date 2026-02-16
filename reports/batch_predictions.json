@@ -1,0 +1,6006 @@
+{
+  "timestamp": "2026-02-16T16:17:49.939408",
+  "total_records": 10000,
+  "sample_predictions": [
+    {
+      "transaction_id": 1,
+      "fraud_probability": 0.024377777777777783,
+      "decision": "APPROVE",
+      "confidence": 0.9756222222222222
+    },
+    {
+      "transaction_id": 2,
+      "fraud_probability": 0.015116883116883122,
+      "decision": "APPROVE",
+      "confidence": 0.9848831168831169
+    },
+    {
+      "transaction_id": 3,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 4,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 5,
+      "fraud_probability": 0.03696309973946996,
+      "decision": "APPROVE",
+      "confidence": 0.96303690026053
+    },
+    {
+      "transaction_id": 6,
+      "fraud_probability": 0.018927461240203412,
+      "decision": "APPROVE",
+      "confidence": 0.9810725387597966
+    },
+    {
+      "transaction_id": 7,
+      "fraud_probability": 0.0032242225859247186,
+      "decision": "APPROVE",
+      "confidence": 0.9967757774140753
+    },
+    {
+      "transaction_id": 8,
+      "fraud_probability": 0.01912802308423437,
+      "decision": "APPROVE",
+      "confidence": 0.9808719769157657
+    },
+    {
+      "transaction_id": 9,
+      "fraud_probability": 0.018133668606745822,
+      "decision": "APPROVE",
+      "confidence": 0.9818663313932542
+    },
+    {
+      "transaction_id": 10,
+      "fraud_probability": 0.011142302862823424,
+      "decision": "APPROVE",
+      "confidence": 0.9888576971371765
+    },
+    {
+      "transaction_id": 11,
+      "fraud_probability": 0.01307422258592472,
+      "decision": "APPROVE",
+      "confidence": 0.9869257774140753
+    },
+    {
+      "transaction_id": 12,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 13,
+      "fraud_probability": 0.009165801889481994,
+      "decision": "APPROVE",
+      "confidence": 0.990834198110518
+    },
+    {
+      "transaction_id": 14,
+      "fraud_probability": 0.05616411644285158,
+      "decision": "APPROVE",
+      "confidence": 0.9438358835571484
+    },
+    {
+      "transaction_id": 15,
+      "fraud_probability": 0.009944322214835448,
+      "decision": "APPROVE",
+      "confidence": 0.9900556777851646
+    },
+    {
+      "transaction_id": 16,
+      "fraud_probability": 0.004041149939563753,
+      "decision": "APPROVE",
+      "confidence": 0.9959588500604363
+    },
+    {
+      "transaction_id": 17,
+      "fraud_probability": 0.009850000000000001,
+      "decision": "APPROVE",
+      "confidence": 0.99015
+    },
+    {
+      "transaction_id": 18,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 19,
+      "fraud_probability": 0.05492139943303271,
+      "decision": "APPROVE",
+      "confidence": 0.9450786005669672
+    },
+    {
+      "transaction_id": 20,
+      "fraud_probability": 0.02879942308424881,
+      "decision": "APPROVE",
+      "confidence": 0.9712005769157512
+    },
+    {
+      "transaction_id": 21,
+      "fraud_probability": 0.21483689792592137,
+      "decision": "APPROVE",
+      "confidence": 0.7851631020740786
+    },
+    {
+      "transaction_id": 22,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 23,
+      "fraud_probability": 0.01902749163409024,
+      "decision": "APPROVE",
+      "confidence": 0.9809725083659098
+    },
+    {
+      "transaction_id": 24,
+      "fraud_probability": 0.008349069237444716,
+      "decision": "APPROVE",
+      "confidence": 0.9916509307625553
+    },
+    {
+      "transaction_id": 25,
+      "fraud_probability": 0.0710690395837799,
+      "decision": "APPROVE",
+      "confidence": 0.9289309604162201
+    },
+    {
+      "transaction_id": 26,
+      "fraud_probability": 0.027677560419892458,
+      "decision": "APPROVE",
+      "confidence": 0.9723224395801076
+    },
+    {
+      "transaction_id": 27,
+      "fraud_probability": 0.03722133150099252,
+      "decision": "APPROVE",
+      "confidence": 0.9627786684990075
+    },
+    {
+      "transaction_id": 28,
+      "fraud_probability": 0.02241026654805442,
+      "decision": "APPROVE",
+      "confidence": 0.9775897334519456
+    },
+    {
+      "transaction_id": 29,
+      "fraud_probability": 0.021164068997317743,
+      "decision": "APPROVE",
+      "confidence": 0.9788359310026823
+    },
+    {
+      "transaction_id": 30,
+      "fraud_probability": 0.02167915820824232,
+      "decision": "APPROVE",
+      "confidence": 0.9783208417917577
+    },
+    {
+      "transaction_id": 31,
+      "fraud_probability": 0.038542160298024035,
+      "decision": "APPROVE",
+      "confidence": 0.961457839701976
+    },
+    {
+      "transaction_id": 32,
+      "fraud_probability": 0.04230617519250482,
+      "decision": "APPROVE",
+      "confidence": 0.9576938248074952
+    },
+    {
+      "transaction_id": 33,
+      "fraud_probability": 0.0030064860740175374,
+      "decision": "APPROVE",
+      "confidence": 0.9969935139259825
+    },
+    {
+      "transaction_id": 34,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": 35,
+      "fraud_probability": 0.047318207431715976,
+      "decision": "APPROVE",
+      "confidence": 0.952681792568284
+    },
+    {
+      "transaction_id": 36,
+      "fraud_probability": 0.0026092715231787996,
+      "decision": "APPROVE",
+      "confidence": 0.9973907284768212
+    },
+    {
+      "transaction_id": 37,
+      "fraud_probability": 0.005256837891927958,
+      "decision": "APPROVE",
+      "confidence": 0.994743162108072
+    },
+    {
+      "transaction_id": 38,
+      "fraud_probability": 0.04158227662384106,
+      "decision": "APPROVE",
+      "confidence": 0.9584177233761589
+    },
+    {
+      "transaction_id": 39,
+      "fraud_probability": 0.0054929599019066695,
+      "decision": "APPROVE",
+      "confidence": 0.9945070400980933
+    },
+    {
+      "transaction_id": 40,
+      "fraud_probability": 0.02525683789192796,
+      "decision": "APPROVE",
+      "confidence": 0.974743162108072
+    },
+    {
+      "transaction_id": 41,
+      "fraud_probability": 0.010395193943122705,
+      "decision": "APPROVE",
+      "confidence": 0.9896048060568773
+    },
+    {
+      "transaction_id": 42,
+      "fraud_probability": 0.0035680326013131014,
+      "decision": "APPROVE",
+      "confidence": 0.9964319673986869
+    },
+    {
+      "transaction_id": 43,
+      "fraud_probability": 0.01675490452641045,
+      "decision": "APPROVE",
+      "confidence": 0.9832450954735895
+    },
+    {
+      "transaction_id": 44,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": 45,
+      "fraud_probability": 0.02670464333737079,
+      "decision": "APPROVE",
+      "confidence": 0.9732953566626292
+    },
+    {
+      "transaction_id": 46,
+      "fraud_probability": 0.03214007971743458,
+      "decision": "APPROVE",
+      "confidence": 0.9678599202825654
+    },
+    {
+      "transaction_id": 47,
+      "fraud_probability": 0.024483981749651395,
+      "decision": "APPROVE",
+      "confidence": 0.9755160182503486
+    },
+    {
+      "transaction_id": 48,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 49,
+      "fraud_probability": 0.042556976718003764,
+      "decision": "APPROVE",
+      "confidence": 0.9574430232819963
+    },
+    {
+      "transaction_id": 50,
+      "fraud_probability": 0.03552463597258389,
+      "decision": "APPROVE",
+      "confidence": 0.9644753640274161
+    },
+    {
+      "transaction_id": 51,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 52,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 53,
+      "fraud_probability": 0.04411273486430063,
+      "decision": "APPROVE",
+      "confidence": 0.9558872651356993
+    },
+    {
+      "transaction_id": 54,
+      "fraud_probability": 0.013603626000667349,
+      "decision": "APPROVE",
+      "confidence": 0.9863963739993327
+    },
+    {
+      "transaction_id": 55,
+      "fraud_probability": 0.035461167321772645,
+      "decision": "APPROVE",
+      "confidence": 0.9645388326782274
+    },
+    {
+      "transaction_id": 56,
+      "fraud_probability": 0.008102231425085468,
+      "decision": "APPROVE",
+      "confidence": 0.9918977685749145
+    },
+    {
+      "transaction_id": 57,
+      "fraud_probability": 0.009991488667101948,
+      "decision": "APPROVE",
+      "confidence": 0.990008511332898
+    },
+    {
+      "transaction_id": 58,
+      "fraud_probability": 0.03921996879875195,
+      "decision": "APPROVE",
+      "confidence": 0.960780031201248
+    },
+    {
+      "transaction_id": 59,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 60,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 61,
+      "fraud_probability": 0.0482125426032237,
+      "decision": "APPROVE",
+      "confidence": 0.9517874573967763
+    },
+    {
+      "transaction_id": 62,
+      "fraud_probability": 0.025888387553336677,
+      "decision": "APPROVE",
+      "confidence": 0.9741116124466633
+    },
+    {
+      "transaction_id": 63,
+      "fraud_probability": 0.007726154640061922,
+      "decision": "APPROVE",
+      "confidence": 0.9922738453599381
+    },
+    {
+      "transaction_id": 64,
+      "fraud_probability": 0.02234537660326514,
+      "decision": "APPROVE",
+      "confidence": 0.9776546233967348
+    },
+    {
+      "transaction_id": 65,
+      "fraud_probability": 0.009170595044638529,
+      "decision": "APPROVE",
+      "confidence": 0.9908294049553614
+    },
+    {
+      "transaction_id": 66,
+      "fraud_probability": 0.004570765661252902,
+      "decision": "APPROVE",
+      "confidence": 0.9954292343387471
+    },
+    {
+      "transaction_id": 67,
+      "fraud_probability": 0.011301357696572563,
+      "decision": "APPROVE",
+      "confidence": 0.9886986423034274
+    },
+    {
+      "transaction_id": 68,
+      "fraud_probability": 0.09,
+      "decision": "APPROVE",
+      "confidence": 0.91
+    },
+    {
+      "transaction_id": 69,
+      "fraud_probability": 0.012977959477636452,
+      "decision": "APPROVE",
+      "confidence": 0.9870220405223635
+    },
+    {
+      "transaction_id": 70,
+      "fraud_probability": 0.05777853644151523,
+      "decision": "APPROVE",
+      "confidence": 0.9422214635584848
+    },
+    {
+      "transaction_id": 71,
+      "fraud_probability": 0.018162142300399732,
+      "decision": "APPROVE",
+      "confidence": 0.9818378576996003
+    },
+    {
+      "transaction_id": 72,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 73,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 74,
+      "fraud_probability": 0.008102231425085468,
+      "decision": "APPROVE",
+      "confidence": 0.9918977685749145
+    },
+    {
+      "transaction_id": 75,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": 76,
+      "fraud_probability": 0.029493975903614456,
+      "decision": "APPROVE",
+      "confidence": 0.9705060240963855
+    },
+    {
+      "transaction_id": 77,
+      "fraud_probability": 0.005116883116883122,
+      "decision": "APPROVE",
+      "confidence": 0.9948831168831169
+    },
+    {
+      "transaction_id": 78,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 79,
+      "fraud_probability": 0.0035680326013131014,
+      "decision": "APPROVE",
+      "confidence": 0.9964319673986869
+    },
+    {
+      "transaction_id": 80,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 81,
+      "fraud_probability": 0.024409811265528214,
+      "decision": "APPROVE",
+      "confidence": 0.9755901887344718
+    },
+    {
+      "transaction_id": 82,
+      "fraud_probability": 0.009425837320574164,
+      "decision": "APPROVE",
+      "confidence": 0.9905741626794259
+    },
+    {
+      "transaction_id": 83,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 84,
+      "fraud_probability": 0.028679840809040222,
+      "decision": "APPROVE",
+      "confidence": 0.9713201591909598
+    },
+    {
+      "transaction_id": 85,
+      "fraud_probability": 0.01516090121610564,
+      "decision": "APPROVE",
+      "confidence": 0.9848390987838943
+    },
+    {
+      "transaction_id": 86,
+      "fraud_probability": 0.04279264009712052,
+      "decision": "APPROVE",
+      "confidence": 0.9572073599028795
+    },
+    {
+      "transaction_id": 87,
+      "fraud_probability": 0.011193182057020957,
+      "decision": "APPROVE",
+      "confidence": 0.9888068179429791
+    },
+    {
+      "transaction_id": 88,
+      "fraud_probability": 0.06801627670396745,
+      "decision": "APPROVE",
+      "confidence": 0.9319837232960325
+    },
+    {
+      "transaction_id": 89,
+      "fraud_probability": 0.006396103896103895,
+      "decision": "APPROVE",
+      "confidence": 0.9936038961038961
+    },
+    {
+      "transaction_id": 90,
+      "fraud_probability": 0.02525683789192796,
+      "decision": "APPROVE",
+      "confidence": 0.974743162108072
+    },
+    {
+      "transaction_id": 91,
+      "fraud_probability": 0.0009061637534498575,
+      "decision": "APPROVE",
+      "confidence": 0.9990938362465501
+    },
+    {
+      "transaction_id": 92,
+      "fraud_probability": 0.021142302862823422,
+      "decision": "APPROVE",
+      "confidence": 0.9788576971371766
+    },
+    {
+      "transaction_id": 93,
+      "fraud_probability": 0.03123556774608211,
+      "decision": "APPROVE",
+      "confidence": 0.9687644322539178
+    },
+    {
+      "transaction_id": 94,
+      "fraud_probability": 0.011804137334147296,
+      "decision": "APPROVE",
+      "confidence": 0.9881958626658527
+    },
+    {
+      "transaction_id": 95,
+      "fraud_probability": 0.029493975903614456,
+      "decision": "APPROVE",
+      "confidence": 0.9705060240963855
+    },
+    {
+      "transaction_id": 96,
+      "fraud_probability": 0.020250271821133686,
+      "decision": "APPROVE",
+      "confidence": 0.9797497281788663
+    },
+    {
+      "transaction_id": 97,
+      "fraud_probability": 0.031164813774252176,
+      "decision": "APPROVE",
+      "confidence": 0.9688351862257478
+    },
+    {
+      "transaction_id": 98,
+      "fraud_probability": 0.02269965855209846,
+      "decision": "APPROVE",
+      "confidence": 0.9773003414479016
+    },
+    {
+      "transaction_id": 99,
+      "fraud_probability": 0.02142170346532189,
+      "decision": "APPROVE",
+      "confidence": 0.9785782965346781
+    },
+    {
+      "transaction_id": 100,
+      "fraud_probability": 0.03208534630623455,
+      "decision": "APPROVE",
+      "confidence": 0.9679146536937655
+    },
+    {
+      "transaction_id": 101,
+      "fraud_probability": 0.028962693357597814,
+      "decision": "APPROVE",
+      "confidence": 0.9710373066424022
+    },
+    {
+      "transaction_id": 102,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 103,
+      "fraud_probability": 0.07674676056655506,
+      "decision": "APPROVE",
+      "confidence": 0.923253239433445
+    },
+    {
+      "transaction_id": 104,
+      "fraud_probability": 0.04475081379554242,
+      "decision": "APPROVE",
+      "confidence": 0.9552491862044575
+    },
+    {
+      "transaction_id": 105,
+      "fraud_probability": 0.028258510928283558,
+      "decision": "APPROVE",
+      "confidence": 0.9717414890717164
+    },
+    {
+      "transaction_id": 106,
+      "fraud_probability": 0.1506574918669461,
+      "decision": "APPROVE",
+      "confidence": 0.8493425081330539
+    },
+    {
+      "transaction_id": 107,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 108,
+      "fraud_probability": 0.04,
+      "decision": "APPROVE",
+      "confidence": 0.96
+    },
+    {
+      "transaction_id": 109,
+      "fraud_probability": 0.030303183555693832,
+      "decision": "APPROVE",
+      "confidence": 0.9696968164443062
+    },
+    {
+      "transaction_id": 110,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 111,
+      "fraud_probability": 0.020216650043333634,
+      "decision": "APPROVE",
+      "confidence": 0.9797833499566664
+    },
+    {
+      "transaction_id": 112,
+      "fraud_probability": 0.006692532445079646,
+      "decision": "APPROVE",
+      "confidence": 0.9933074675549204
+    },
+    {
+      "transaction_id": 113,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 114,
+      "fraud_probability": 0.04169950147695402,
+      "decision": "APPROVE",
+      "confidence": 0.958300498523046
+    },
+    {
+      "transaction_id": 115,
+      "fraud_probability": 0.021046696342698026,
+      "decision": "APPROVE",
+      "confidence": 0.9789533036573019
+    },
+    {
+      "transaction_id": 116,
+      "fraud_probability": 0.018016276703967448,
+      "decision": "APPROVE",
+      "confidence": 0.9819837232960326
+    },
+    {
+      "transaction_id": 117,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 118,
+      "fraud_probability": 0.0838817524715796,
+      "decision": "APPROVE",
+      "confidence": 0.9161182475284204
+    },
+    {
+      "transaction_id": 119,
+      "fraud_probability": 0.00904194133079443,
+      "decision": "APPROVE",
+      "confidence": 0.9909580586692056
+    },
+    {
+      "transaction_id": 120,
+      "fraud_probability": 0.024625410233032493,
+      "decision": "APPROVE",
+      "confidence": 0.9753745897669676
+    },
+    {
+      "transaction_id": 121,
+      "fraud_probability": 0.06985000000000001,
+      "decision": "APPROVE",
+      "confidence": 0.93015
+    },
+    {
+      "transaction_id": 122,
+      "fraud_probability": 0.02801627670396745,
+      "decision": "APPROVE",
+      "confidence": 0.9719837232960326
+    },
+    {
+      "transaction_id": 123,
+      "fraud_probability": 0.016993017007050693,
+      "decision": "APPROVE",
+      "confidence": 0.9830069829929493
+    },
+    {
+      "transaction_id": 124,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 125,
+      "fraud_probability": 0.011034663865546215,
+      "decision": "APPROVE",
+      "confidence": 0.9889653361344538
+    },
+    {
+      "transaction_id": 126,
+      "fraud_probability": 0.0841279080445548,
+      "decision": "APPROVE",
+      "confidence": 0.9158720919554452
+    },
+    {
+      "transaction_id": 127,
+      "fraud_probability": 0.012635051478802036,
+      "decision": "APPROVE",
+      "confidence": 0.9873649485211979
+    },
+    {
+      "transaction_id": 128,
+      "fraud_probability": 0.047808378120722826,
+      "decision": "APPROVE",
+      "confidence": 0.9521916218792772
+    },
+    {
+      "transaction_id": 129,
+      "fraud_probability": 0.01876111817026684,
+      "decision": "APPROVE",
+      "confidence": 0.9812388818297332
+    },
+    {
+      "transaction_id": 130,
+      "fraud_probability": 0.009615874363327679,
+      "decision": "APPROVE",
+      "confidence": 0.9903841256366723
+    },
+    {
+      "transaction_id": 131,
+      "fraud_probability": 0.0130257012835705,
+      "decision": "APPROVE",
+      "confidence": 0.9869742987164295
+    },
+    {
+      "transaction_id": 132,
+      "fraud_probability": 0.032219692737020786,
+      "decision": "APPROVE",
+      "confidence": 0.9677803072629793
+    },
+    {
+      "transaction_id": 133,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 134,
+      "fraud_probability": 0.015880597014925373,
+      "decision": "APPROVE",
+      "confidence": 0.9841194029850746
+    },
+    {
+      "transaction_id": 135,
+      "fraud_probability": 0.08,
+      "decision": "APPROVE",
+      "confidence": 0.92
+    },
+    {
+      "transaction_id": 136,
+      "fraud_probability": 0.019347128752905264,
+      "decision": "APPROVE",
+      "confidence": 0.9806528712470948
+    },
+    {
+      "transaction_id": 137,
+      "fraud_probability": 0.011473321001106526,
+      "decision": "APPROVE",
+      "confidence": 0.9885266789988935
+    },
+    {
+      "transaction_id": 138,
+      "fraud_probability": 0.005116883116883122,
+      "decision": "APPROVE",
+      "confidence": 0.9948831168831169
+    },
+    {
+      "transaction_id": 139,
+      "fraud_probability": 0.02598325031133251,
+      "decision": "APPROVE",
+      "confidence": 0.9740167496886675
+    },
+    {
+      "transaction_id": 140,
+      "fraud_probability": 0.01411273486430063,
+      "decision": "APPROVE",
+      "confidence": 0.9858872651356994
+    },
+    {
+      "transaction_id": 141,
+      "fraud_probability": 0.018565217391304352,
+      "decision": "APPROVE",
+      "confidence": 0.9814347826086957
+    },
+    {
+      "transaction_id": 142,
+      "fraud_probability": 0.02270293359803738,
+      "decision": "APPROVE",
+      "confidence": 0.9772970664019626
+    },
+    {
+      "transaction_id": 143,
+      "fraud_probability": 0.009039832360195682,
+      "decision": "APPROVE",
+      "confidence": 0.9909601676398043
+    },
+    {
+      "transaction_id": 144,
+      "fraud_probability": 0.041411555566928555,
+      "decision": "APPROVE",
+      "confidence": 0.9585884444330715
+    },
+    {
+      "transaction_id": 145,
+      "fraud_probability": 0.05903875621968052,
+      "decision": "APPROVE",
+      "confidence": 0.9409612437803194
+    },
+    {
+      "transaction_id": 146,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": 147,
+      "fraud_probability": 0.20091518326003446,
+      "decision": "APPROVE",
+      "confidence": 0.7990848167399656
+    },
+    {
+      "transaction_id": 148,
+      "fraud_probability": 0.012781543411420414,
+      "decision": "APPROVE",
+      "confidence": 0.9872184565885795
+    },
+    {
+      "transaction_id": 149,
+      "fraud_probability": 0.03598964290085309,
+      "decision": "APPROVE",
+      "confidence": 0.964010357099147
+    },
+    {
+      "transaction_id": 150,
+      "fraud_probability": 0.016828518104971324,
+      "decision": "APPROVE",
+      "confidence": 0.9831714818950287
+    },
+    {
+      "transaction_id": 151,
+      "fraud_probability": 0.026337812786672406,
+      "decision": "APPROVE",
+      "confidence": 0.9736621872133276
+    },
+    {
+      "transaction_id": 152,
+      "fraud_probability": 0.04,
+      "decision": "APPROVE",
+      "confidence": 0.96
+    },
+    {
+      "transaction_id": 153,
+      "fraud_probability": 0.016113308083676024,
+      "decision": "APPROVE",
+      "confidence": 0.9838866919163239
+    },
+    {
+      "transaction_id": 154,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 155,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 156,
+      "fraud_probability": 0.010382883608132599,
+      "decision": "APPROVE",
+      "confidence": 0.9896171163918674
+    },
+    {
+      "transaction_id": 157,
+      "fraud_probability": 0.013123391977996406,
+      "decision": "APPROVE",
+      "confidence": 0.9868766080220036
+    },
+    {
+      "transaction_id": 158,
+      "fraud_probability": 0.008133668606745824,
+      "decision": "APPROVE",
+      "confidence": 0.9918663313932542
+    },
+    {
+      "transaction_id": 159,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 160,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 161,
+      "fraud_probability": 0.04025737317754383,
+      "decision": "APPROVE",
+      "confidence": 0.9597426268224561
+    },
+    {
+      "transaction_id": 162,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 163,
+      "fraud_probability": 0.0035680326013131014,
+      "decision": "APPROVE",
+      "confidence": 0.9964319673986869
+    },
+    {
+      "transaction_id": 164,
+      "fraud_probability": 0.04709164998390422,
+      "decision": "APPROVE",
+      "confidence": 0.9529083500160958
+    },
+    {
+      "transaction_id": 165,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 166,
+      "fraud_probability": 0.028693006575030565,
+      "decision": "APPROVE",
+      "confidence": 0.9713069934249694
+    },
+    {
+      "transaction_id": 167,
+      "fraud_probability": 0.008310367741878889,
+      "decision": "APPROVE",
+      "confidence": 0.9916896322581211
+    },
+    {
+      "transaction_id": 168,
+      "fraud_probability": 0.00392039800995024,
+      "decision": "APPROVE",
+      "confidence": 0.9960796019900497
+    },
+    {
+      "transaction_id": 169,
+      "fraud_probability": 0.002989377845220036,
+      "decision": "APPROVE",
+      "confidence": 0.99701062215478
+    },
+    {
+      "transaction_id": 170,
+      "fraud_probability": 0.019036769429615043,
+      "decision": "APPROVE",
+      "confidence": 0.9809632305703849
+    },
+    {
+      "transaction_id": 171,
+      "fraud_probability": 0.02535136423278218,
+      "decision": "APPROVE",
+      "confidence": 0.9746486357672178
+    },
+    {
+      "transaction_id": 172,
+      "fraud_probability": 0.016692532445079646,
+      "decision": "APPROVE",
+      "confidence": 0.9833074675549204
+    },
+    {
+      "transaction_id": 173,
+      "fraud_probability": 0.030360404045874246,
+      "decision": "APPROVE",
+      "confidence": 0.9696395959541257
+    },
+    {
+      "transaction_id": 174,
+      "fraud_probability": 0.04956310679611651,
+      "decision": "APPROVE",
+      "confidence": 0.9504368932038835
+    },
+    {
+      "transaction_id": 175,
+      "fraud_probability": 0.012058545243391516,
+      "decision": "APPROVE",
+      "confidence": 0.9879414547566084
+    },
+    {
+      "transaction_id": 176,
+      "fraud_probability": 0.06869586342547061,
+      "decision": "APPROVE",
+      "confidence": 0.9313041365745294
+    },
+    {
+      "transaction_id": 177,
+      "fraud_probability": 0.026624181248824236,
+      "decision": "APPROVE",
+      "confidence": 0.9733758187511757
+    },
+    {
+      "transaction_id": 178,
+      "fraud_probability": 0.06,
+      "decision": "APPROVE",
+      "confidence": 0.94
+    },
+    {
+      "transaction_id": 179,
+      "fraud_probability": 0.019452975047984645,
+      "decision": "APPROVE",
+      "confidence": 0.9805470249520154
+    },
+    {
+      "transaction_id": 180,
+      "fraud_probability": 0.08236111171378084,
+      "decision": "APPROVE",
+      "confidence": 0.9176388882862192
+    },
+    {
+      "transaction_id": 181,
+      "fraud_probability": 0.0854449881037839,
+      "decision": "APPROVE",
+      "confidence": 0.9145550118962161
+    },
+    {
+      "transaction_id": 182,
+      "fraud_probability": 0.013006486074017538,
+      "decision": "APPROVE",
+      "confidence": 0.9869935139259824
+    },
+    {
+      "transaction_id": 183,
+      "fraud_probability": 0.08301910242531992,
+      "decision": "APPROVE",
+      "confidence": 0.91698089757468
+    },
+    {
+      "transaction_id": 184,
+      "fraud_probability": 0.007726154640061922,
+      "decision": "APPROVE",
+      "confidence": 0.9922738453599381
+    },
+    {
+      "transaction_id": 185,
+      "fraud_probability": 0.013346776275406308,
+      "decision": "APPROVE",
+      "confidence": 0.9866532237245937
+    },
+    {
+      "transaction_id": 186,
+      "fraud_probability": 0.004471175669541528,
+      "decision": "APPROVE",
+      "confidence": 0.9955288243304584
+    },
+    {
+      "transaction_id": 187,
+      "fraud_probability": 0.018150372307288075,
+      "decision": "APPROVE",
+      "confidence": 0.9818496276927119
+    },
+    {
+      "transaction_id": 188,
+      "fraud_probability": 0.007080447192720327,
+      "decision": "APPROVE",
+      "confidence": 0.9929195528072797
+    },
+    {
+      "transaction_id": 189,
+      "fraud_probability": 0.028478094109018536,
+      "decision": "APPROVE",
+      "confidence": 0.9715219058909814
+    },
+    {
+      "transaction_id": 190,
+      "fraud_probability": 0.024297745619183818,
+      "decision": "APPROVE",
+      "confidence": 0.9757022543808161
+    },
+    {
+      "transaction_id": 191,
+      "fraud_probability": 0.044405419508995854,
+      "decision": "APPROVE",
+      "confidence": 0.9555945804910041
+    },
+    {
+      "transaction_id": 192,
+      "fraud_probability": 0.007080447192720327,
+      "decision": "APPROVE",
+      "confidence": 0.9929195528072797
+    },
+    {
+      "transaction_id": 193,
+      "fraud_probability": 0.030303400041921887,
+      "decision": "APPROVE",
+      "confidence": 0.9696965999580781
+    },
+    {
+      "transaction_id": 194,
+      "fraud_probability": 0.04319500340834804,
+      "decision": "APPROVE",
+      "confidence": 0.956804996591652
+    },
+    {
+      "transaction_id": 195,
+      "fraud_probability": 0.08993408172867906,
+      "decision": "APPROVE",
+      "confidence": 0.9100659182713209
+    },
+    {
+      "transaction_id": 196,
+      "fraud_probability": 0.0929909292422095,
+      "decision": "APPROVE",
+      "confidence": 0.9070090707577905
+    },
+    {
+      "transaction_id": 197,
+      "fraud_probability": 0.014227777777777784,
+      "decision": "APPROVE",
+      "confidence": 0.9857722222222223
+    },
+    {
+      "transaction_id": 198,
+      "fraud_probability": 0.03698394460613728,
+      "decision": "APPROVE",
+      "confidence": 0.9630160553938627
+    },
+    {
+      "transaction_id": 199,
+      "fraud_probability": 0.007080447192720327,
+      "decision": "APPROVE",
+      "confidence": 0.9929195528072797
+    },
+    {
+      "transaction_id": 200,
+      "fraud_probability": 0.011142302862823424,
+      "decision": "APPROVE",
+      "confidence": 0.9888576971371765
+    },
+    {
+      "transaction_id": 201,
+      "fraud_probability": 0.017081006851347853,
+      "decision": "APPROVE",
+      "confidence": 0.9829189931486522
+    },
+    {
+      "transaction_id": 202,
+      "fraud_probability": 0.019656313854715512,
+      "decision": "APPROVE",
+      "confidence": 0.9803436861452844
+    },
+    {
+      "transaction_id": 203,
+      "fraud_probability": 0.01082242568263767,
+      "decision": "APPROVE",
+      "confidence": 0.9891775743173623
+    },
+    {
+      "transaction_id": 204,
+      "fraud_probability": 0.057632959551461756,
+      "decision": "APPROVE",
+      "confidence": 0.9423670404485383
+    },
+    {
+      "transaction_id": 205,
+      "fraud_probability": 0.005116883116883122,
+      "decision": "APPROVE",
+      "confidence": 0.9948831168831169
+    },
+    {
+      "transaction_id": 206,
+      "fraud_probability": 0.019253192039256854,
+      "decision": "APPROVE",
+      "confidence": 0.9807468079607431
+    },
+    {
+      "transaction_id": 207,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 208,
+      "fraud_probability": 0.0026092715231787996,
+      "decision": "APPROVE",
+      "confidence": 0.9973907284768212
+    },
+    {
+      "transaction_id": 209,
+      "fraud_probability": 0.013257328120019283,
+      "decision": "APPROVE",
+      "confidence": 0.9867426718799808
+    },
+    {
+      "transaction_id": 210,
+      "fraud_probability": 0.03937361482036471,
+      "decision": "APPROVE",
+      "confidence": 0.9606263851796353
+    },
+    {
+      "transaction_id": 211,
+      "fraud_probability": 0.021465301305626086,
+      "decision": "APPROVE",
+      "confidence": 0.9785346986943739
+    },
+    {
+      "transaction_id": 212,
+      "fraud_probability": 0.007726154640061922,
+      "decision": "APPROVE",
+      "confidence": 0.9922738453599381
+    },
+    {
+      "transaction_id": 213,
+      "fraud_probability": 0.03757222057222058,
+      "decision": "APPROVE",
+      "confidence": 0.9624277794277795
+    },
+    {
+      "transaction_id": 214,
+      "fraud_probability": 0.019292452830188683,
+      "decision": "APPROVE",
+      "confidence": 0.9807075471698113
+    },
+    {
+      "transaction_id": 215,
+      "fraud_probability": 0.011241892854534799,
+      "decision": "APPROVE",
+      "confidence": 0.9887581071454652
+    },
+    {
+      "transaction_id": 216,
+      "fraud_probability": 0.03224564031310347,
+      "decision": "APPROVE",
+      "confidence": 0.9677543596868965
+    },
+    {
+      "transaction_id": 217,
+      "fraud_probability": 0.004589816833678244,
+      "decision": "APPROVE",
+      "confidence": 0.9954101831663218
+    },
+    {
+      "transaction_id": 218,
+      "fraud_probability": 0.0026092715231787996,
+      "decision": "APPROVE",
+      "confidence": 0.9973907284768212
+    },
+    {
+      "transaction_id": 219,
+      "fraud_probability": 0.008040816326530616,
+      "decision": "APPROVE",
+      "confidence": 0.9919591836734694
+    },
+    {
+      "transaction_id": 220,
+      "fraud_probability": 0.011241892854534799,
+      "decision": "APPROVE",
+      "confidence": 0.9887581071454652
+    },
+    {
+      "transaction_id": 221,
+      "fraud_probability": 0.04810415997623555,
+      "decision": "APPROVE",
+      "confidence": 0.9518958400237645
+    },
+    {
+      "transaction_id": 222,
+      "fraud_probability": 0.02896020941991405,
+      "decision": "APPROVE",
+      "confidence": 0.9710397905800859
+    },
+    {
+      "transaction_id": 223,
+      "fraud_probability": 0.04905608082193057,
+      "decision": "APPROVE",
+      "confidence": 0.9509439191780694
+    },
+    {
+      "transaction_id": 224,
+      "fraud_probability": 0.013730871219622418,
+      "decision": "APPROVE",
+      "confidence": 0.9862691287803775
+    },
+    {
+      "transaction_id": 225,
+      "fraud_probability": 0.012663175670123423,
+      "decision": "APPROVE",
+      "confidence": 0.9873368243298766
+    },
+    {
+      "transaction_id": 226,
+      "fraud_probability": 0.008191268191268196,
+      "decision": "APPROVE",
+      "confidence": 0.9918087318087319
+    },
+    {
+      "transaction_id": 227,
+      "fraud_probability": 0.09,
+      "decision": "APPROVE",
+      "confidence": 0.91
+    },
+    {
+      "transaction_id": 228,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 229,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 230,
+      "fraud_probability": 0.028325983340708634,
+      "decision": "APPROVE",
+      "confidence": 0.9716740166592913
+    },
+    {
+      "transaction_id": 231,
+      "fraud_probability": 0.026210258265083032,
+      "decision": "APPROVE",
+      "confidence": 0.973789741734917
+    },
+    {
+      "transaction_id": 232,
+      "fraud_probability": 0.027840331557148493,
+      "decision": "APPROVE",
+      "confidence": 0.9721596684428515
+    },
+    {
+      "transaction_id": 233,
+      "fraud_probability": 0.007655169530773688,
+      "decision": "APPROVE",
+      "confidence": 0.9923448304692263
+    },
+    {
+      "transaction_id": 234,
+      "fraud_probability": 0.0026092715231787996,
+      "decision": "APPROVE",
+      "confidence": 0.9973907284768212
+    },
+    {
+      "transaction_id": 235,
+      "fraud_probability": 0.01311278595066918,
+      "decision": "APPROVE",
+      "confidence": 0.9868872140493308
+    },
+    {
+      "transaction_id": 236,
+      "fraud_probability": 0.09,
+      "decision": "APPROVE",
+      "confidence": 0.91
+    },
+    {
+      "transaction_id": 237,
+      "fraud_probability": 0.00876111817026684,
+      "decision": "APPROVE",
+      "confidence": 0.9912388818297332
+    },
+    {
+      "transaction_id": 238,
+      "fraud_probability": 0.012176677264576235,
+      "decision": "APPROVE",
+      "confidence": 0.9878233227354237
+    },
+    {
+      "transaction_id": 239,
+      "fraud_probability": 0.007655169530773688,
+      "decision": "APPROVE",
+      "confidence": 0.9923448304692263
+    },
+    {
+      "transaction_id": 240,
+      "fraud_probability": 0.0034683098591549283,
+      "decision": "APPROVE",
+      "confidence": 0.9965316901408451
+    },
+    {
+      "transaction_id": 241,
+      "fraud_probability": 0.07227457580742691,
+      "decision": "APPROVE",
+      "confidence": 0.9277254241925731
+    },
+    {
+      "transaction_id": 242,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 243,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 244,
+      "fraud_probability": 0.009887076537013803,
+      "decision": "APPROVE",
+      "confidence": 0.9901129234629862
+    },
+    {
+      "transaction_id": 245,
+      "fraud_probability": 0.0030064860740175374,
+      "decision": "APPROVE",
+      "confidence": 0.9969935139259825
+    },
+    {
+      "transaction_id": 246,
+      "fraud_probability": 0.028748851747779743,
+      "decision": "APPROVE",
+      "confidence": 0.9712511482522203
+    },
+    {
+      "transaction_id": 247,
+      "fraud_probability": 0.018636174625695355,
+      "decision": "APPROVE",
+      "confidence": 0.9813638253743047
+    },
+    {
+      "transaction_id": 248,
+      "fraud_probability": 0.04135409922042137,
+      "decision": "APPROVE",
+      "confidence": 0.9586459007795787
+    },
+    {
+      "transaction_id": 249,
+      "fraud_probability": 0.034471175669541526,
+      "decision": "APPROVE",
+      "confidence": 0.9655288243304585
+    },
+    {
+      "transaction_id": 250,
+      "fraud_probability": 0.06691800231161085,
+      "decision": "APPROVE",
+      "confidence": 0.9330819976883892
+    },
+    {
+      "transaction_id": 251,
+      "fraud_probability": 0.006523178807947021,
+      "decision": "APPROVE",
+      "confidence": 0.9934768211920529
+    },
+    {
+      "transaction_id": 252,
+      "fraud_probability": 0.004377777777777783,
+      "decision": "APPROVE",
+      "confidence": 0.9956222222222222
+    },
+    {
+      "transaction_id": 253,
+      "fraud_probability": 0.01102178423236514,
+      "decision": "APPROVE",
+      "confidence": 0.9889782157676349
+    },
+    {
+      "transaction_id": 254,
+      "fraud_probability": 0.023670230607966466,
+      "decision": "APPROVE",
+      "confidence": 0.9763297693920335
+    },
+    {
+      "transaction_id": 255,
+      "fraud_probability": 0.010906163753449858,
+      "decision": "APPROVE",
+      "confidence": 0.9890938362465501
+    },
+    {
+      "transaction_id": 256,
+      "fraud_probability": 0.0054929599019066695,
+      "decision": "APPROVE",
+      "confidence": 0.9945070400980933
+    },
+    {
+      "transaction_id": 257,
+      "fraud_probability": 0.0036310557555439414,
+      "decision": "APPROVE",
+      "confidence": 0.9963689442444561
+    },
+    {
+      "transaction_id": 258,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 259,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 260,
+      "fraud_probability": 0.04300648607401754,
+      "decision": "APPROVE",
+      "confidence": 0.9569935139259824
+    },
+    {
+      "transaction_id": 261,
+      "fraud_probability": 0.017975708502024294,
+      "decision": "APPROVE",
+      "confidence": 0.9820242914979757
+    },
+    {
+      "transaction_id": 262,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 263,
+      "fraud_probability": 0.04806275958037081,
+      "decision": "APPROVE",
+      "confidence": 0.9519372404196292
+    },
+    {
+      "transaction_id": 264,
+      "fraud_probability": 0.00970128291264561,
+      "decision": "APPROVE",
+      "confidence": 0.9902987170873544
+    },
+    {
+      "transaction_id": 265,
+      "fraud_probability": 0.008133668606745824,
+      "decision": "APPROVE",
+      "confidence": 0.9918663313932542
+    },
+    {
+      "transaction_id": 266,
+      "fraud_probability": 0.0503587965936899,
+      "decision": "APPROVE",
+      "confidence": 0.9496412034063101
+    },
+    {
+      "transaction_id": 267,
+      "fraud_probability": 0.008102231425085468,
+      "decision": "APPROVE",
+      "confidence": 0.9918977685749145
+    },
+    {
+      "transaction_id": 268,
+      "fraud_probability": 0.07822048017771702,
+      "decision": "APPROVE",
+      "confidence": 0.921779519822283
+    },
+    {
+      "transaction_id": 269,
+      "fraud_probability": 0.048299676715814074,
+      "decision": "APPROVE",
+      "confidence": 0.951700323284186
+    },
+    {
+      "transaction_id": 270,
+      "fraud_probability": 0.03938068631372042,
+      "decision": "APPROVE",
+      "confidence": 0.9606193136862796
+    },
+    {
+      "transaction_id": 271,
+      "fraud_probability": 0.011981298164472807,
+      "decision": "APPROVE",
+      "confidence": 0.9880187018355272
+    },
+    {
+      "transaction_id": 272,
+      "fraud_probability": 0.048534817338968424,
+      "decision": "APPROVE",
+      "confidence": 0.9514651826610315
+    },
+    {
+      "transaction_id": 273,
+      "fraud_probability": 0.0026092715231787996,
+      "decision": "APPROVE",
+      "confidence": 0.9973907284768212
+    },
+    {
+      "transaction_id": 274,
+      "fraud_probability": 0.02772172739317047,
+      "decision": "APPROVE",
+      "confidence": 0.9722782726068295
+    },
+    {
+      "transaction_id": 275,
+      "fraud_probability": 0.033456403493112574,
+      "decision": "APPROVE",
+      "confidence": 0.9665435965068874
+    },
+    {
+      "transaction_id": 276,
+      "fraud_probability": 0.03565921908221774,
+      "decision": "APPROVE",
+      "confidence": 0.9643407809177823
+    },
+    {
+      "transaction_id": 277,
+      "fraud_probability": 0.016259185979706544,
+      "decision": "APPROVE",
+      "confidence": 0.9837408140202935
+    },
+    {
+      "transaction_id": 278,
+      "fraud_probability": 0.025218282346203155,
+      "decision": "APPROVE",
+      "confidence": 0.9747817176537968
+    },
+    {
+      "transaction_id": 279,
+      "fraud_probability": 0.1141045759370068,
+      "decision": "APPROVE",
+      "confidence": 0.8858954240629932
+    },
+    {
+      "transaction_id": 280,
+      "fraud_probability": 0.018237464837181572,
+      "decision": "APPROVE",
+      "confidence": 0.9817625351628184
+    },
+    {
+      "transaction_id": 281,
+      "fraud_probability": 0.007080447192720327,
+      "decision": "APPROVE",
+      "confidence": 0.9929195528072797
+    },
+    {
+      "transaction_id": 282,
+      "fraud_probability": 0.005524397083567023,
+      "decision": "APPROVE",
+      "confidence": 0.994475602916433
+    },
+    {
+      "transaction_id": 283,
+      "fraud_probability": 0.029420583674484836,
+      "decision": "APPROVE",
+      "confidence": 0.9705794163255151
+    },
+    {
+      "transaction_id": 284,
+      "fraud_probability": 0.026308022741464283,
+      "decision": "APPROVE",
+      "confidence": 0.9736919772585357
+    },
+    {
+      "transaction_id": 285,
+      "fraud_probability": 0.0676810043980657,
+      "decision": "APPROVE",
+      "confidence": 0.9323189956019343
+    },
+    {
+      "transaction_id": 286,
+      "fraud_probability": 0.0032242225859247186,
+      "decision": "APPROVE",
+      "confidence": 0.9967757774140753
+    },
+    {
+      "transaction_id": 287,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 288,
+      "fraud_probability": 0.007080447192720327,
+      "decision": "APPROVE",
+      "confidence": 0.9929195528072797
+    },
+    {
+      "transaction_id": 289,
+      "fraud_probability": 0.02955443349753695,
+      "decision": "APPROVE",
+      "confidence": 0.970445566502463
+    },
+    {
+      "transaction_id": 290,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 291,
+      "fraud_probability": 0.02182261982472003,
+      "decision": "APPROVE",
+      "confidence": 0.97817738017528
+    },
+    {
+      "transaction_id": 292,
+      "fraud_probability": 0.0584549356223176,
+      "decision": "APPROVE",
+      "confidence": 0.9415450643776824
+    },
+    {
+      "transaction_id": 293,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 294,
+      "fraud_probability": 0.005828402366863908,
+      "decision": "APPROVE",
+      "confidence": 0.9941715976331361
+    },
+    {
+      "transaction_id": 295,
+      "fraud_probability": 0.03816623176113404,
+      "decision": "APPROVE",
+      "confidence": 0.961833768238866
+    },
+    {
+      "transaction_id": 296,
+      "fraud_probability": 0.0235680326013131,
+      "decision": "APPROVE",
+      "confidence": 0.9764319673986869
+    },
+    {
+      "transaction_id": 297,
+      "fraud_probability": 0.0054929599019066695,
+      "decision": "APPROVE",
+      "confidence": 0.9945070400980933
+    },
+    {
+      "transaction_id": 298,
+      "fraud_probability": 0.0010346638655462158,
+      "decision": "APPROVE",
+      "confidence": 0.9989653361344538
+    },
+    {
+      "transaction_id": 299,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 300,
+      "fraud_probability": 0.02201370198548801,
+      "decision": "APPROVE",
+      "confidence": 0.977986298014512
+    },
+    {
+      "transaction_id": 301,
+      "fraud_probability": 0.01898519946436384,
+      "decision": "APPROVE",
+      "confidence": 0.9810148005356362
+    },
+    {
+      "transaction_id": 302,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 303,
+      "fraud_probability": 0.04359051217060639,
+      "decision": "APPROVE",
+      "confidence": 0.9564094878293936
+    },
+    {
+      "transaction_id": 304,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 305,
+      "fraud_probability": 0.012102671996633712,
+      "decision": "APPROVE",
+      "confidence": 0.9878973280033663
+    },
+    {
+      "transaction_id": 306,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 307,
+      "fraud_probability": 0.012502113383208384,
+      "decision": "APPROVE",
+      "confidence": 0.9874978866167916
+    },
+    {
+      "transaction_id": 308,
+      "fraud_probability": 0.016064511041009467,
+      "decision": "APPROVE",
+      "confidence": 0.9839354889589905
+    },
+    {
+      "transaction_id": 309,
+      "fraud_probability": 0.015758769684722836,
+      "decision": "APPROVE",
+      "confidence": 0.9842412303152772
+    },
+    {
+      "transaction_id": 310,
+      "fraud_probability": 0.0071930625285257874,
+      "decision": "APPROVE",
+      "confidence": 0.9928069374714742
+    },
+    {
+      "transaction_id": 311,
+      "fraud_probability": 0.017803460228163103,
+      "decision": "APPROVE",
+      "confidence": 0.9821965397718369
+    },
+    {
+      "transaction_id": 312,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 313,
+      "fraud_probability": 0.03223980204471029,
+      "decision": "APPROVE",
+      "confidence": 0.9677601979552897
+    },
+    {
+      "transaction_id": 314,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 315,
+      "fraud_probability": 0.010585034478050117,
+      "decision": "APPROVE",
+      "confidence": 0.9894149655219499
+    },
+    {
+      "transaction_id": 316,
+      "fraud_probability": 0.03070912645152398,
+      "decision": "APPROVE",
+      "confidence": 0.969290873548476
+    },
+    {
+      "transaction_id": 317,
+      "fraud_probability": 0.0010217842323651423,
+      "decision": "APPROVE",
+      "confidence": 0.9989782157676349
+    },
+    {
+      "transaction_id": 318,
+      "fraud_probability": 0.03612703543654759,
+      "decision": "APPROVE",
+      "confidence": 0.9638729645634524
+    },
+    {
+      "transaction_id": 319,
+      "fraud_probability": 0.016692532445079646,
+      "decision": "APPROVE",
+      "confidence": 0.9833074675549204
+    },
+    {
+      "transaction_id": 320,
+      "fraud_probability": 0.015733159700901944,
+      "decision": "APPROVE",
+      "confidence": 0.9842668402990981
+    },
+    {
+      "transaction_id": 321,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 322,
+      "fraud_probability": 0.014542720437457286,
+      "decision": "APPROVE",
+      "confidence": 0.9854572795625427
+    },
+    {
+      "transaction_id": 323,
+      "fraud_probability": 0.02241026654805442,
+      "decision": "APPROVE",
+      "confidence": 0.9775897334519456
+    },
+    {
+      "transaction_id": 324,
+      "fraud_probability": 0.011778677601033818,
+      "decision": "APPROVE",
+      "confidence": 0.9882213223989662
+    },
+    {
+      "transaction_id": 325,
+      "fraud_probability": 0.006546181315932166,
+      "decision": "APPROVE",
+      "confidence": 0.9934538186840678
+    },
+    {
+      "transaction_id": 326,
+      "fraud_probability": 0.03890066349891787,
+      "decision": "APPROVE",
+      "confidence": 0.9610993365010821
+    },
+    {
+      "transaction_id": 327,
+      "fraud_probability": 0.025579016842475134,
+      "decision": "APPROVE",
+      "confidence": 0.9744209831575249
+    },
+    {
+      "transaction_id": 328,
+      "fraud_probability": 0.05250727443864095,
+      "decision": "APPROVE",
+      "confidence": 0.947492725561359
+    },
+    {
+      "transaction_id": 329,
+      "fraud_probability": 0.0019279479858149997,
+      "decision": "APPROVE",
+      "confidence": 0.998072052014185
+    },
+    {
+      "transaction_id": 330,
+      "fraud_probability": 0.06826079050346565,
+      "decision": "APPROVE",
+      "confidence": 0.9317392094965343
+    },
+    {
+      "transaction_id": 331,
+      "fraud_probability": 0.17015604347870128,
+      "decision": "APPROVE",
+      "confidence": 0.8298439565212987
+    },
+    {
+      "transaction_id": 332,
+      "fraud_probability": 0.019703912565698273,
+      "decision": "APPROVE",
+      "confidence": 0.9802960874343017
+    },
+    {
+      "transaction_id": 333,
+      "fraud_probability": 0.021766816143497764,
+      "decision": "APPROVE",
+      "confidence": 0.9782331838565023
+    },
+    {
+      "transaction_id": 334,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 335,
+      "fraud_probability": 0.010933734939759028,
+      "decision": "APPROVE",
+      "confidence": 0.989066265060241
+    },
+    {
+      "transaction_id": 336,
+      "fraud_probability": 0.033995943204868165,
+      "decision": "APPROVE",
+      "confidence": 0.9660040567951318
+    },
+    {
+      "transaction_id": 337,
+      "fraud_probability": 0.02970997681086145,
+      "decision": "APPROVE",
+      "confidence": 0.9702900231891386
+    },
+    {
+      "transaction_id": 338,
+      "fraud_probability": 0.08516328755749913,
+      "decision": "APPROVE",
+      "confidence": 0.9148367124425009
+    },
+    {
+      "transaction_id": 339,
+      "fraud_probability": 0.05675205437483015,
+      "decision": "APPROVE",
+      "confidence": 0.9432479456251699
+    },
+    {
+      "transaction_id": 340,
+      "fraud_probability": 0.054323020693954796,
+      "decision": "APPROVE",
+      "confidence": 0.9456769793060452
+    },
+    {
+      "transaction_id": 341,
+      "fraud_probability": 0.007007174721041766,
+      "decision": "APPROVE",
+      "confidence": 0.9929928252789583
+    },
+    {
+      "transaction_id": 342,
+      "fraud_probability": 0.0883481446060672,
+      "decision": "APPROVE",
+      "confidence": 0.9116518553939328
+    },
+    {
+      "transaction_id": 343,
+      "fraud_probability": 0.012043183321723962,
+      "decision": "APPROVE",
+      "confidence": 0.9879568166782761
+    },
+    {
+      "transaction_id": 344,
+      "fraud_probability": 0.06036448574580185,
+      "decision": "APPROVE",
+      "confidence": 0.9396355142541981
+    },
+    {
+      "transaction_id": 345,
+      "fraud_probability": 0.027743628204865808,
+      "decision": "APPROVE",
+      "confidence": 0.9722563717951342
+    },
+    {
+      "transaction_id": 346,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 347,
+      "fraud_probability": 0.0135680326013131,
+      "decision": "APPROVE",
+      "confidence": 0.9864319673986869
+    },
+    {
+      "transaction_id": 348,
+      "fraud_probability": 0.04952966488196456,
+      "decision": "APPROVE",
+      "confidence": 0.9504703351180355
+    },
+    {
+      "transaction_id": 349,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 350,
+      "fraud_probability": 0.028954991543295682,
+      "decision": "APPROVE",
+      "confidence": 0.9710450084567043
+    },
+    {
+      "transaction_id": 351,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": 352,
+      "fraud_probability": 0.03619897814383426,
+      "decision": "APPROVE",
+      "confidence": 0.9638010218561658
+    },
+    {
+      "transaction_id": 353,
+      "fraud_probability": 0.01985,
+      "decision": "APPROVE",
+      "confidence": 0.98015
+    },
+    {
+      "transaction_id": 354,
+      "fraud_probability": 0.12431819012610243,
+      "decision": "APPROVE",
+      "confidence": 0.8756818098738975
+    },
+    {
+      "transaction_id": 355,
+      "fraud_probability": 0.1026657591474693,
+      "decision": "APPROVE",
+      "confidence": 0.8973342408525307
+    },
+    {
+      "transaction_id": 356,
+      "fraud_probability": 0.04280136750298912,
+      "decision": "APPROVE",
+      "confidence": 0.9571986324970109
+    },
+    {
+      "transaction_id": 357,
+      "fraud_probability": 0.026089416626119976,
+      "decision": "APPROVE",
+      "confidence": 0.97391058337388
+    },
+    {
+      "transaction_id": 358,
+      "fraud_probability": 0.02708151171924854,
+      "decision": "APPROVE",
+      "confidence": 0.9729184882807514
+    },
+    {
+      "transaction_id": 359,
+      "fraud_probability": 0.0026092715231787996,
+      "decision": "APPROVE",
+      "confidence": 0.9973907284768212
+    },
+    {
+      "transaction_id": 360,
+      "fraud_probability": 0.02315633090235225,
+      "decision": "APPROVE",
+      "confidence": 0.9768436690976477
+    },
+    {
+      "transaction_id": 361,
+      "fraud_probability": 0.008490512642078413,
+      "decision": "APPROVE",
+      "confidence": 0.9915094873579215
+    },
+    {
+      "transaction_id": 362,
+      "fraud_probability": 0.01913245033112582,
+      "decision": "APPROVE",
+      "confidence": 0.9808675496688741
+    },
+    {
+      "transaction_id": 363,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 364,
+      "fraud_probability": 0.02214505735014546,
+      "decision": "APPROVE",
+      "confidence": 0.9778549426498545
+    },
+    {
+      "transaction_id": 365,
+      "fraud_probability": 0.045492959901906674,
+      "decision": "APPROVE",
+      "confidence": 0.9545070400980933
+    },
+    {
+      "transaction_id": 366,
+      "fraud_probability": 0.03798408773563556,
+      "decision": "APPROVE",
+      "confidence": 0.9620159122643644
+    },
+    {
+      "transaction_id": 367,
+      "fraud_probability": 0.034471175669541526,
+      "decision": "APPROVE",
+      "confidence": 0.9655288243304585
+    },
+    {
+      "transaction_id": 368,
+      "fraud_probability": 0.0071930625285257874,
+      "decision": "APPROVE",
+      "confidence": 0.9928069374714742
+    },
+    {
+      "transaction_id": 369,
+      "fraud_probability": 0.004041149939563753,
+      "decision": "APPROVE",
+      "confidence": 0.9959588500604363
+    },
+    {
+      "transaction_id": 370,
+      "fraud_probability": 0.07718654060736602,
+      "decision": "APPROVE",
+      "confidence": 0.922813459392634
+    },
+    {
+      "transaction_id": 371,
+      "fraud_probability": 0.016915260880471593,
+      "decision": "APPROVE",
+      "confidence": 0.9830847391195284
+    },
+    {
+      "transaction_id": 372,
+      "fraud_probability": 0.008244208544232731,
+      "decision": "APPROVE",
+      "confidence": 0.9917557914557673
+    },
+    {
+      "transaction_id": 373,
+      "fraud_probability": 0.041858782205205676,
+      "decision": "APPROVE",
+      "confidence": 0.9581412177947943
+    },
+    {
+      "transaction_id": 374,
+      "fraud_probability": 0.004281597499409703,
+      "decision": "APPROVE",
+      "confidence": 0.9957184025005903
+    },
+    {
+      "transaction_id": 375,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 376,
+      "fraud_probability": 0.01166636128729153,
+      "decision": "APPROVE",
+      "confidence": 0.9883336387127085
+    },
+    {
+      "transaction_id": 377,
+      "fraud_probability": 0.024227777777777782,
+      "decision": "APPROVE",
+      "confidence": 0.9757722222222223
+    },
+    {
+      "transaction_id": 378,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 379,
+      "fraud_probability": 0.007726154640061922,
+      "decision": "APPROVE",
+      "confidence": 0.9922738453599381
+    },
+    {
+      "transaction_id": 380,
+      "fraud_probability": 0.04458038994696925,
+      "decision": "APPROVE",
+      "confidence": 0.9554196100530308
+    },
+    {
+      "transaction_id": 381,
+      "fraud_probability": 0.02794366839588572,
+      "decision": "APPROVE",
+      "confidence": 0.9720563316041143
+    },
+    {
+      "transaction_id": 382,
+      "fraud_probability": 0.03666848594571425,
+      "decision": "APPROVE",
+      "confidence": 0.9633315140542857
+    },
+    {
+      "transaction_id": 383,
+      "fraud_probability": 0.008133668606745824,
+      "decision": "APPROVE",
+      "confidence": 0.9918663313932542
+    },
+    {
+      "transaction_id": 384,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 385,
+      "fraud_probability": 0.025791578348191645,
+      "decision": "APPROVE",
+      "confidence": 0.9742084216518083
+    },
+    {
+      "transaction_id": 386,
+      "fraud_probability": 0.01608850339325272,
+      "decision": "APPROVE",
+      "confidence": 0.9839114966067473
+    },
+    {
+      "transaction_id": 387,
+      "fraud_probability": 0.033885155434831574,
+      "decision": "APPROVE",
+      "confidence": 0.9661148445651684
+    },
+    {
+      "transaction_id": 388,
+      "fraud_probability": 0.020270091492396204,
+      "decision": "APPROVE",
+      "confidence": 0.9797299085076038
+    },
+    {
+      "transaction_id": 389,
+      "fraud_probability": 0.03707124892962977,
+      "decision": "APPROVE",
+      "confidence": 0.9629287510703702
+    },
+    {
+      "transaction_id": 390,
+      "fraud_probability": 0.007726154640061922,
+      "decision": "APPROVE",
+      "confidence": 0.9922738453599381
+    },
+    {
+      "transaction_id": 391,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 392,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 393,
+      "fraud_probability": 0.05523458135447461,
+      "decision": "APPROVE",
+      "confidence": 0.9447654186455254
+    },
+    {
+      "transaction_id": 394,
+      "fraud_probability": 0.026775709163912406,
+      "decision": "APPROVE",
+      "confidence": 0.9732242908360876
+    },
+    {
+      "transaction_id": 395,
+      "fraud_probability": 0.017340494296577948,
+      "decision": "APPROVE",
+      "confidence": 0.9826595057034221
+    },
+    {
+      "transaction_id": 396,
+      "fraud_probability": 0.023139249920967407,
+      "decision": "APPROVE",
+      "confidence": 0.9768607500790326
+    },
+    {
+      "transaction_id": 397,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 398,
+      "fraud_probability": 0.028040816326530615,
+      "decision": "APPROVE",
+      "confidence": 0.9719591836734693
+    },
+    {
+      "transaction_id": 399,
+      "fraud_probability": 0.06743482902911101,
+      "decision": "APPROVE",
+      "confidence": 0.932565170970889
+    },
+    {
+      "transaction_id": 400,
+      "fraud_probability": 0.07498960587978892,
+      "decision": "APPROVE",
+      "confidence": 0.925010394120211
+    },
+    {
+      "transaction_id": 401,
+      "fraud_probability": 0.004570765661252902,
+      "decision": "APPROVE",
+      "confidence": 0.9954292343387471
+    },
+    {
+      "transaction_id": 402,
+      "fraud_probability": 0.08,
+      "decision": "APPROVE",
+      "confidence": 0.92
+    },
+    {
+      "transaction_id": 403,
+      "fraud_probability": 0.019440526644669005,
+      "decision": "APPROVE",
+      "confidence": 0.980559473355331
+    },
+    {
+      "transaction_id": 404,
+      "fraud_probability": 0.07327900648947412,
+      "decision": "APPROVE",
+      "confidence": 0.9267209935105258
+    },
+    {
+      "transaction_id": 405,
+      "fraud_probability": 0.05716082981279033,
+      "decision": "APPROVE",
+      "confidence": 0.9428391701872096
+    },
+    {
+      "transaction_id": 406,
+      "fraud_probability": 0.04864029856429601,
+      "decision": "APPROVE",
+      "confidence": 0.951359701435704
+    },
+    {
+      "transaction_id": 407,
+      "fraud_probability": 0.0016723259762309033,
+      "decision": "APPROVE",
+      "confidence": 0.9983276740237691
+    },
+    {
+      "transaction_id": 408,
+      "fraud_probability": 0.017018056252848402,
+      "decision": "APPROVE",
+      "confidence": 0.9829819437471516
+    },
+    {
+      "transaction_id": 409,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 410,
+      "fraud_probability": 0.019162790697674417,
+      "decision": "APPROVE",
+      "confidence": 0.9808372093023255
+    },
+    {
+      "transaction_id": 411,
+      "fraud_probability": 0.004589816833678244,
+      "decision": "APPROVE",
+      "confidence": 0.9954101831663218
+    },
+    {
+      "transaction_id": 412,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 413,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 414,
+      "fraud_probability": 0.0126092715231788,
+      "decision": "APPROVE",
+      "confidence": 0.9873907284768212
+    },
+    {
+      "transaction_id": 415,
+      "fraud_probability": 0.018101653497511434,
+      "decision": "APPROVE",
+      "confidence": 0.9818983465024885
+    },
+    {
+      "transaction_id": 416,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 417,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 418,
+      "fraud_probability": 0.022559563923818905,
+      "decision": "APPROVE",
+      "confidence": 0.9774404360761811
+    },
+    {
+      "transaction_id": 419,
+      "fraud_probability": 0.0329343605431959,
+      "decision": "APPROVE",
+      "confidence": 0.9670656394568041
+    },
+    {
+      "transaction_id": 420,
+      "fraud_probability": 0.012410266548054421,
+      "decision": "APPROVE",
+      "confidence": 0.9875897334519456
+    },
+    {
+      "transaction_id": 421,
+      "fraud_probability": 0.012102671996633712,
+      "decision": "APPROVE",
+      "confidence": 0.9878973280033663
+    },
+    {
+      "transaction_id": 422,
+      "fraud_probability": 0.008583910533842158,
+      "decision": "APPROVE",
+      "confidence": 0.9914160894661579
+    },
+    {
+      "transaction_id": 423,
+      "fraud_probability": 0.02941857995352106,
+      "decision": "APPROVE",
+      "confidence": 0.970581420046479
+    },
+    {
+      "transaction_id": 424,
+      "fraud_probability": 0.015196719986884195,
+      "decision": "APPROVE",
+      "confidence": 0.9848032800131158
+    },
+    {
+      "transaction_id": 425,
+      "fraud_probability": 0.0059337349397590436,
+      "decision": "APPROVE",
+      "confidence": 0.994066265060241
+    },
+    {
+      "transaction_id": 426,
+      "fraud_probability": 0.04908747245296914,
+      "decision": "APPROVE",
+      "confidence": 0.9509125275470308
+    },
+    {
+      "transaction_id": 427,
+      "fraud_probability": 0.014865138531744869,
+      "decision": "APPROVE",
+      "confidence": 0.9851348614682551
+    },
+    {
+      "transaction_id": 428,
+      "fraud_probability": 0.0054929599019066695,
+      "decision": "APPROVE",
+      "confidence": 0.9945070400980933
+    },
+    {
+      "transaction_id": 429,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 430,
+      "fraud_probability": 0.034701623283089005,
+      "decision": "APPROVE",
+      "confidence": 0.965298376716911
+    },
+    {
+      "transaction_id": 431,
+      "fraud_probability": 0.0325929255798014,
+      "decision": "APPROVE",
+      "confidence": 0.9674070744201986
+    },
+    {
+      "transaction_id": 432,
+      "fraud_probability": 0.00872453498671391,
+      "decision": "APPROVE",
+      "confidence": 0.9912754650132861
+    },
+    {
+      "transaction_id": 433,
+      "fraud_probability": 0.03617346685425805,
+      "decision": "APPROVE",
+      "confidence": 0.963826533145742
+    },
+    {
+      "transaction_id": 434,
+      "fraud_probability": 0.022745671164110196,
+      "decision": "APPROVE",
+      "confidence": 0.9772543288358898
+    },
+    {
+      "transaction_id": 435,
+      "fraud_probability": 0.030662555912395126,
+      "decision": "APPROVE",
+      "confidence": 0.9693374440876049
+    },
+    {
+      "transaction_id": 436,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 437,
+      "fraud_probability": 0.04494181174728507,
+      "decision": "APPROVE",
+      "confidence": 0.9550581882527149
+    },
+    {
+      "transaction_id": 438,
+      "fraud_probability": 0.04292219318670171,
+      "decision": "APPROVE",
+      "confidence": 0.9570778068132983
+    },
+    {
+      "transaction_id": 439,
+      "fraud_probability": 0.006722006387479429,
+      "decision": "APPROVE",
+      "confidence": 0.9932779936125206
+    },
+    {
+      "transaction_id": 440,
+      "fraud_probability": 0.027988295654908967,
+      "decision": "APPROVE",
+      "confidence": 0.972011704345091
+    },
+    {
+      "transaction_id": 441,
+      "fraud_probability": 0.01436926644487973,
+      "decision": "APPROVE",
+      "confidence": 0.9856307335551203
+    },
+    {
+      "transaction_id": 442,
+      "fraud_probability": 0.00801627670396745,
+      "decision": "APPROVE",
+      "confidence": 0.9919837232960326
+    },
+    {
+      "transaction_id": 443,
+      "fraud_probability": 0.010764755661111028,
+      "decision": "APPROVE",
+      "confidence": 0.989235244338889
+    },
+    {
+      "transaction_id": 444,
+      "fraud_probability": 0.051368417698784086,
+      "decision": "APPROVE",
+      "confidence": 0.9486315823012159
+    },
+    {
+      "transaction_id": 445,
+      "fraud_probability": 0.014408767749593605,
+      "decision": "APPROVE",
+      "confidence": 0.9855912322504063
+    },
+    {
+      "transaction_id": 446,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 447,
+      "fraud_probability": 0.03167091796181109,
+      "decision": "APPROVE",
+      "confidence": 0.9683290820381889
+    },
+    {
+      "transaction_id": 448,
+      "fraud_probability": 0.008621444201312911,
+      "decision": "APPROVE",
+      "confidence": 0.9913785557986871
+    },
+    {
+      "transaction_id": 449,
+      "fraud_probability": 0.012688145519656673,
+      "decision": "APPROVE",
+      "confidence": 0.9873118544803433
+    },
+    {
+      "transaction_id": 450,
+      "fraud_probability": 0.014623302217515302,
+      "decision": "APPROVE",
+      "confidence": 0.9853766977824847
+    },
+    {
+      "transaction_id": 451,
+      "fraud_probability": 0.0775936602547423,
+      "decision": "APPROVE",
+      "confidence": 0.9224063397452577
+    },
+    {
+      "transaction_id": 452,
+      "fraud_probability": 0.09,
+      "decision": "APPROVE",
+      "confidence": 0.91
+    },
+    {
+      "transaction_id": 453,
+      "fraud_probability": 0.020728804260470204,
+      "decision": "APPROVE",
+      "confidence": 0.9792711957395298
+    },
+    {
+      "transaction_id": 454,
+      "fraud_probability": 0.009440921278263521,
+      "decision": "APPROVE",
+      "confidence": 0.9905590787217364
+    },
+    {
+      "transaction_id": 455,
+      "fraud_probability": 0.08,
+      "decision": "APPROVE",
+      "confidence": 0.92
+    },
+    {
+      "transaction_id": 456,
+      "fraud_probability": 0.02891939683409528,
+      "decision": "APPROVE",
+      "confidence": 0.9710806031659047
+    },
+    {
+      "transaction_id": 457,
+      "fraud_probability": 0.012378512715311546,
+      "decision": "APPROVE",
+      "confidence": 0.9876214872846885
+    },
+    {
+      "transaction_id": 458,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 459,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 460,
+      "fraud_probability": 0.011318998629494693,
+      "decision": "APPROVE",
+      "confidence": 0.9886810013705053
+    },
+    {
+      "transaction_id": 461,
+      "fraud_probability": 0.018578054381567434,
+      "decision": "APPROVE",
+      "confidence": 0.9814219456184325
+    },
+    {
+      "transaction_id": 462,
+      "fraud_probability": 0.04730582000034163,
+      "decision": "APPROVE",
+      "confidence": 0.9526941799996583
+    },
+    {
+      "transaction_id": 463,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 464,
+      "fraud_probability": 0.0054929599019066695,
+      "decision": "APPROVE",
+      "confidence": 0.9945070400980933
+    },
+    {
+      "transaction_id": 465,
+      "fraud_probability": 0.005256837891927958,
+      "decision": "APPROVE",
+      "confidence": 0.994743162108072
+    },
+    {
+      "transaction_id": 466,
+      "fraud_probability": 0.00613325031133251,
+      "decision": "APPROVE",
+      "confidence": 0.9938667496886675
+    },
+    {
+      "transaction_id": 467,
+      "fraud_probability": 0.06504513081060201,
+      "decision": "APPROVE",
+      "confidence": 0.934954869189398
+    },
+    {
+      "transaction_id": 468,
+      "fraud_probability": 0.007866109415106758,
+      "decision": "APPROVE",
+      "confidence": 0.9921338905848932
+    },
+    {
+      "transaction_id": 469,
+      "fraud_probability": 0.04318673438934129,
+      "decision": "APPROVE",
+      "confidence": 0.9568132656106587
+    },
+    {
+      "transaction_id": 470,
+      "fraud_probability": 0.01985,
+      "decision": "APPROVE",
+      "confidence": 0.98015
+    },
+    {
+      "transaction_id": 471,
+      "fraud_probability": 0.014657656371617193,
+      "decision": "APPROVE",
+      "confidence": 0.9853423436283828
+    },
+    {
+      "transaction_id": 472,
+      "fraud_probability": 0.024471175669541524,
+      "decision": "APPROVE",
+      "confidence": 0.9755288243304585
+    },
+    {
+      "transaction_id": 473,
+      "fraud_probability": 0.14,
+      "decision": "APPROVE",
+      "confidence": 0.86
+    },
+    {
+      "transaction_id": 474,
+      "fraud_probability": 0.009132450331125821,
+      "decision": "APPROVE",
+      "confidence": 0.9908675496688741
+    },
+    {
+      "transaction_id": 475,
+      "fraud_probability": 0.006722006387479429,
+      "decision": "APPROVE",
+      "confidence": 0.9932779936125206
+    },
+    {
+      "transaction_id": 476,
+      "fraud_probability": 0.00411273486430063,
+      "decision": "APPROVE",
+      "confidence": 0.9958872651356994
+    },
+    {
+      "transaction_id": 477,
+      "fraud_probability": 0.011125485977226979,
+      "decision": "APPROVE",
+      "confidence": 0.988874514022773
+    },
+    {
+      "transaction_id": 478,
+      "fraud_probability": 0.008133668606745824,
+      "decision": "APPROVE",
+      "confidence": 0.9918663313932542
+    },
+    {
+      "transaction_id": 479,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 480,
+      "fraud_probability": 0.053298670150145375,
+      "decision": "APPROVE",
+      "confidence": 0.9467013298498547
+    },
+    {
+      "transaction_id": 481,
+      "fraud_probability": 0.020557939658420853,
+      "decision": "APPROVE",
+      "confidence": 0.9794420603415791
+    },
+    {
+      "transaction_id": 482,
+      "fraud_probability": 0.010516445127026049,
+      "decision": "APPROVE",
+      "confidence": 0.9894835548729739
+    },
+    {
+      "transaction_id": 483,
+      "fraud_probability": 0.031277391238466026,
+      "decision": "APPROVE",
+      "confidence": 0.9687226087615339
+    },
+    {
+      "transaction_id": 484,
+      "fraud_probability": 0.016946144487037688,
+      "decision": "APPROVE",
+      "confidence": 0.9830538555129623
+    },
+    {
+      "transaction_id": 485,
+      "fraud_probability": 0.0882736874744538,
+      "decision": "APPROVE",
+      "confidence": 0.9117263125255461
+    },
+    {
+      "transaction_id": 486,
+      "fraud_probability": 0.08000914154840176,
+      "decision": "APPROVE",
+      "confidence": 0.9199908584515982
+    },
+    {
+      "transaction_id": 487,
+      "fraud_probability": 0.01592412993511381,
+      "decision": "APPROVE",
+      "confidence": 0.9840758700648862
+    },
+    {
+      "transaction_id": 488,
+      "fraud_probability": 0.016107089677847054,
+      "decision": "APPROVE",
+      "confidence": 0.983892910322153
+    },
+    {
+      "transaction_id": 489,
+      "fraud_probability": 0.04,
+      "decision": "APPROVE",
+      "confidence": 0.96
+    },
+    {
+      "transaction_id": 490,
+      "fraud_probability": 0.008747938872427063,
+      "decision": "APPROVE",
+      "confidence": 0.9912520611275729
+    },
+    {
+      "transaction_id": 491,
+      "fraud_probability": 0.03166181254875049,
+      "decision": "APPROVE",
+      "confidence": 0.9683381874512496
+    },
+    {
+      "transaction_id": 492,
+      "fraud_probability": 0.08977667493796526,
+      "decision": "APPROVE",
+      "confidence": 0.9102233250620347
+    },
+    {
+      "transaction_id": 493,
+      "fraud_probability": 0.003995943204868159,
+      "decision": "APPROVE",
+      "confidence": 0.9960040567951318
+    },
+    {
+      "transaction_id": 494,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 495,
+      "fraud_probability": 0.02561560849282715,
+      "decision": "APPROVE",
+      "confidence": 0.9743843915071728
+    },
+    {
+      "transaction_id": 496,
+      "fraud_probability": 0.02439048523778639,
+      "decision": "APPROVE",
+      "confidence": 0.9756095147622136
+    },
+    {
+      "transaction_id": 497,
+      "fraud_probability": 0.021021784232365143,
+      "decision": "APPROVE",
+      "confidence": 0.9789782157676349
+    },
+    {
+      "transaction_id": 498,
+      "fraud_probability": 0.004377777777777783,
+      "decision": "APPROVE",
+      "confidence": 0.9956222222222222
+    },
+    {
+      "transaction_id": 499,
+      "fraud_probability": 0.01999557275310855,
+      "decision": "APPROVE",
+      "confidence": 0.9800044272468914
+    },
+    {
+      "transaction_id": 500,
+      "fraud_probability": 0.02450035531359436,
+      "decision": "APPROVE",
+      "confidence": 0.9754996446864056
+    },
+    {
+      "transaction_id": 501,
+      "fraud_probability": 0.0035680326013131014,
+      "decision": "APPROVE",
+      "confidence": 0.9964319673986869
+    },
+    {
+      "transaction_id": 502,
+      "fraud_probability": 0.013216067079568301,
+      "decision": "APPROVE",
+      "confidence": 0.9867839329204317
+    },
+    {
+      "transaction_id": 503,
+      "fraud_probability": 0.05113903245593481,
+      "decision": "APPROVE",
+      "confidence": 0.9488609675440652
+    },
+    {
+      "transaction_id": 504,
+      "fraud_probability": 0.0026092715231787996,
+      "decision": "APPROVE",
+      "confidence": 0.9973907284768212
+    },
+    {
+      "transaction_id": 505,
+      "fraud_probability": 0.023428815396499575,
+      "decision": "APPROVE",
+      "confidence": 0.9765711846035005
+    },
+    {
+      "transaction_id": 506,
+      "fraud_probability": 0.011318998629494693,
+      "decision": "APPROVE",
+      "confidence": 0.9886810013705053
+    },
+    {
+      "transaction_id": 507,
+      "fraud_probability": 0.007080447192720327,
+      "decision": "APPROVE",
+      "confidence": 0.9929195528072797
+    },
+    {
+      "transaction_id": 508,
+      "fraud_probability": 0.0026092715231787996,
+      "decision": "APPROVE",
+      "confidence": 0.9973907284768212
+    },
+    {
+      "transaction_id": 509,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 510,
+      "fraud_probability": 0.08519314055356085,
+      "decision": "APPROVE",
+      "confidence": 0.9148068594464391
+    },
+    {
+      "transaction_id": 511,
+      "fraud_probability": 0.03351752755080805,
+      "decision": "APPROVE",
+      "confidence": 0.9664824724491919
+    },
+    {
+      "transaction_id": 512,
+      "fraud_probability": 0.02929245283018868,
+      "decision": "APPROVE",
+      "confidence": 0.9707075471698113
+    },
+    {
+      "transaction_id": 513,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 514,
+      "fraud_probability": 0.008133668606745824,
+      "decision": "APPROVE",
+      "confidence": 0.9918663313932542
+    },
+    {
+      "transaction_id": 515,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": 516,
+      "fraud_probability": 0.008962693357597817,
+      "decision": "APPROVE",
+      "confidence": 0.9910373066424022
+    },
+    {
+      "transaction_id": 517,
+      "fraud_probability": 0.0035680326013131014,
+      "decision": "APPROVE",
+      "confidence": 0.9964319673986869
+    },
+    {
+      "transaction_id": 518,
+      "fraud_probability": 0.0026092715231787996,
+      "decision": "APPROVE",
+      "confidence": 0.9973907284768212
+    },
+    {
+      "transaction_id": 519,
+      "fraud_probability": 0.015116883116883122,
+      "decision": "APPROVE",
+      "confidence": 0.9848831168831169
+    },
+    {
+      "transaction_id": 520,
+      "fraud_probability": 0.017285570393775585,
+      "decision": "APPROVE",
+      "confidence": 0.9827144296062245
+    },
+    {
+      "transaction_id": 521,
+      "fraud_probability": 0.06346542829138702,
+      "decision": "APPROVE",
+      "confidence": 0.936534571708613
+    },
+    {
+      "transaction_id": 522,
+      "fraud_probability": 0.0804517605038833,
+      "decision": "APPROVE",
+      "confidence": 0.9195482394961167
+    },
+    {
+      "transaction_id": 523,
+      "fraud_probability": 0.04,
+      "decision": "APPROVE",
+      "confidence": 0.96
+    },
+    {
+      "transaction_id": 524,
+      "fraud_probability": 0.0938001680268857,
+      "decision": "APPROVE",
+      "confidence": 0.9061998319731143
+    },
+    {
+      "transaction_id": 525,
+      "fraud_probability": 0.04653132896860903,
+      "decision": "APPROVE",
+      "confidence": 0.953468671031391
+    },
+    {
+      "transaction_id": 526,
+      "fraud_probability": 0.013325151090479105,
+      "decision": "APPROVE",
+      "confidence": 0.9866748489095208
+    },
+    {
+      "transaction_id": 527,
+      "fraud_probability": 0.0019279479858149997,
+      "decision": "APPROVE",
+      "confidence": 0.998072052014185
+    },
+    {
+      "transaction_id": 528,
+      "fraud_probability": 0.009092429684880124,
+      "decision": "APPROVE",
+      "confidence": 0.9909075703151199
+    },
+    {
+      "transaction_id": 529,
+      "fraud_probability": 0.02300511399873584,
+      "decision": "APPROVE",
+      "confidence": 0.9769948860012642
+    },
+    {
+      "transaction_id": 530,
+      "fraud_probability": 0.0054929599019066695,
+      "decision": "APPROVE",
+      "confidence": 0.9945070400980933
+    },
+    {
+      "transaction_id": 531,
+      "fraud_probability": 0.008583910533842158,
+      "decision": "APPROVE",
+      "confidence": 0.9914160894661579
+    },
+    {
+      "transaction_id": 532,
+      "fraud_probability": 0.02801627670396745,
+      "decision": "APPROVE",
+      "confidence": 0.9719837232960326
+    },
+    {
+      "transaction_id": 533,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 534,
+      "fraud_probability": 0.0471333881387398,
+      "decision": "APPROVE",
+      "confidence": 0.9528666118612602
+    },
+    {
+      "transaction_id": 535,
+      "fraud_probability": 0.0026092715231787996,
+      "decision": "APPROVE",
+      "confidence": 0.9973907284768212
+    },
+    {
+      "transaction_id": 536,
+      "fraud_probability": 0.083400855700954,
+      "decision": "APPROVE",
+      "confidence": 0.916599144299046
+    },
+    {
+      "transaction_id": 537,
+      "fraud_probability": 0.018731562015965694,
+      "decision": "APPROVE",
+      "confidence": 0.9812684379840343
+    },
+    {
+      "transaction_id": 538,
+      "fraud_probability": 0.03426375067448465,
+      "decision": "APPROVE",
+      "confidence": 0.9657362493255154
+    },
+    {
+      "transaction_id": 539,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 540,
+      "fraud_probability": 0.007388707869105168,
+      "decision": "APPROVE",
+      "confidence": 0.9926112921308948
+    },
+    {
+      "transaction_id": 541,
+      "fraud_probability": 0.008777689744176169,
+      "decision": "APPROVE",
+      "confidence": 0.9912223102558239
+    },
+    {
+      "transaction_id": 542,
+      "fraud_probability": 0.00801627670396745,
+      "decision": "APPROVE",
+      "confidence": 0.9919837232960326
+    },
+    {
+      "transaction_id": 543,
+      "fraud_probability": 0.02239564031310347,
+      "decision": "APPROVE",
+      "confidence": 0.9776043596868965
+    },
+    {
+      "transaction_id": 544,
+      "fraud_probability": 0.039686717230512085,
+      "decision": "APPROVE",
+      "confidence": 0.9603132827694879
+    },
+    {
+      "transaction_id": 545,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 546,
+      "fraud_probability": 0.11684537545336018,
+      "decision": "APPROVE",
+      "confidence": 0.8831546245466398
+    },
+    {
+      "transaction_id": 547,
+      "fraud_probability": 0.01757725173527044,
+      "decision": "APPROVE",
+      "confidence": 0.9824227482647295
+    },
+    {
+      "transaction_id": 548,
+      "fraud_probability": 0.07,
+      "decision": "APPROVE",
+      "confidence": 0.9299999999999999
+    },
+    {
+      "transaction_id": 549,
+      "fraud_probability": 0.0061773041244919,
+      "decision": "APPROVE",
+      "confidence": 0.9938226958755081
+    },
+    {
+      "transaction_id": 550,
+      "fraud_probability": 0.015713068524076324,
+      "decision": "APPROVE",
+      "confidence": 0.9842869314759237
+    },
+    {
+      "transaction_id": 551,
+      "fraud_probability": 0.019036697247706423,
+      "decision": "APPROVE",
+      "confidence": 0.9809633027522936
+    },
+    {
+      "transaction_id": 552,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 553,
+      "fraud_probability": 0.04900720390367033,
+      "decision": "APPROVE",
+      "confidence": 0.9509927960963297
+    },
+    {
+      "transaction_id": 554,
+      "fraud_probability": 0.03613942609613885,
+      "decision": "APPROVE",
+      "confidence": 0.9638605739038612
+    },
+    {
+      "transaction_id": 555,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 556,
+      "fraud_probability": 0.015479851700781939,
+      "decision": "APPROVE",
+      "confidence": 0.9845201482992181
+    },
+    {
+      "transaction_id": 557,
+      "fraud_probability": 0.17364178843437908,
+      "decision": "APPROVE",
+      "confidence": 0.826358211565621
+    },
+    {
+      "transaction_id": 558,
+      "fraud_probability": 0.0030064860740175374,
+      "decision": "APPROVE",
+      "confidence": 0.9969935139259825
+    },
+    {
+      "transaction_id": 559,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 560,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 561,
+      "fraud_probability": 0.0423828638541228,
+      "decision": "APPROVE",
+      "confidence": 0.9576171361458772
+    },
+    {
+      "transaction_id": 562,
+      "fraud_probability": 0.017288583509513747,
+      "decision": "APPROVE",
+      "confidence": 0.9827114164904862
+    },
+    {
+      "transaction_id": 563,
+      "fraud_probability": 0.009769835112842257,
+      "decision": "APPROVE",
+      "confidence": 0.9902301648871578
+    },
+    {
+      "transaction_id": 564,
+      "fraud_probability": 0.019438373744411565,
+      "decision": "APPROVE",
+      "confidence": 0.9805616262555884
+    },
+    {
+      "transaction_id": 565,
+      "fraud_probability": 0.0019279479858149997,
+      "decision": "APPROVE",
+      "confidence": 0.998072052014185
+    },
+    {
+      "transaction_id": 566,
+      "fraud_probability": 0.04381101521650752,
+      "decision": "APPROVE",
+      "confidence": 0.9561889847834925
+    },
+    {
+      "transaction_id": 567,
+      "fraud_probability": 0.023328457278471184,
+      "decision": "APPROVE",
+      "confidence": 0.9766715427215288
+    },
+    {
+      "transaction_id": 568,
+      "fraud_probability": 0.07907710852865567,
+      "decision": "APPROVE",
+      "confidence": 0.9209228914713443
+    },
+    {
+      "transaction_id": 569,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 570,
+      "fraud_probability": 0.06516187958149552,
+      "decision": "APPROVE",
+      "confidence": 0.9348381204185044
+    },
+    {
+      "transaction_id": 571,
+      "fraud_probability": 0.02578527699350495,
+      "decision": "APPROVE",
+      "confidence": 0.974214723006495
+    },
+    {
+      "transaction_id": 572,
+      "fraud_probability": 0.007114314926507151,
+      "decision": "APPROVE",
+      "confidence": 0.9928856850734928
+    },
+    {
+      "transaction_id": 573,
+      "fraud_probability": 0.0672568468869729,
+      "decision": "APPROVE",
+      "confidence": 0.9327431531130271
+    },
+    {
+      "transaction_id": 574,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 575,
+      "fraud_probability": 0.01912802308423437,
+      "decision": "APPROVE",
+      "confidence": 0.9808719769157657
+    },
+    {
+      "transaction_id": 576,
+      "fraud_probability": 0.009425837320574164,
+      "decision": "APPROVE",
+      "confidence": 0.9905741626794259
+    },
+    {
+      "transaction_id": 577,
+      "fraud_probability": 0.05060899080768744,
+      "decision": "APPROVE",
+      "confidence": 0.9493910091923126
+    },
+    {
+      "transaction_id": 578,
+      "fraud_probability": 0.008747938872427063,
+      "decision": "APPROVE",
+      "confidence": 0.9912520611275729
+    },
+    {
+      "transaction_id": 579,
+      "fraud_probability": 0.0211369393177153,
+      "decision": "APPROVE",
+      "confidence": 0.9788630606822847
+    },
+    {
+      "transaction_id": 580,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 581,
+      "fraud_probability": 0.0235680326013131,
+      "decision": "APPROVE",
+      "confidence": 0.9764319673986869
+    },
+    {
+      "transaction_id": 582,
+      "fraud_probability": 0.03843391053384216,
+      "decision": "APPROVE",
+      "confidence": 0.9615660894661578
+    },
+    {
+      "transaction_id": 583,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 584,
+      "fraud_probability": 0.019120588235294122,
+      "decision": "APPROVE",
+      "confidence": 0.9808794117647058
+    },
+    {
+      "transaction_id": 585,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 586,
+      "fraud_probability": 0.033144367889749705,
+      "decision": "APPROVE",
+      "confidence": 0.9668556321102503
+    },
+    {
+      "transaction_id": 587,
+      "fraud_probability": 0.06968367845032965,
+      "decision": "APPROVE",
+      "confidence": 0.9303163215496704
+    },
+    {
+      "transaction_id": 588,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 589,
+      "fraud_probability": 0.07783748307470756,
+      "decision": "APPROVE",
+      "confidence": 0.9221625169252925
+    },
+    {
+      "transaction_id": 590,
+      "fraud_probability": 0.0030064860740175374,
+      "decision": "APPROVE",
+      "confidence": 0.9969935139259825
+    },
+    {
+      "transaction_id": 591,
+      "fraud_probability": 0.012444191384676668,
+      "decision": "APPROVE",
+      "confidence": 0.9875558086153233
+    },
+    {
+      "transaction_id": 592,
+      "fraud_probability": 0.023370874865590755,
+      "decision": "APPROVE",
+      "confidence": 0.9766291251344092
+    },
+    {
+      "transaction_id": 593,
+      "fraud_probability": 0.016588628762541812,
+      "decision": "APPROVE",
+      "confidence": 0.9834113712374581
+    },
+    {
+      "transaction_id": 594,
+      "fraud_probability": 0.02406518998006211,
+      "decision": "APPROVE",
+      "confidence": 0.9759348100199379
+    },
+    {
+      "transaction_id": 595,
+      "fraud_probability": 0.0071930625285257874,
+      "decision": "APPROVE",
+      "confidence": 0.9928069374714742
+    },
+    {
+      "transaction_id": 596,
+      "fraud_probability": 0.026467087812369127,
+      "decision": "APPROVE",
+      "confidence": 0.9735329121876308
+    },
+    {
+      "transaction_id": 597,
+      "fraud_probability": 0.04877841883496689,
+      "decision": "APPROVE",
+      "confidence": 0.9512215811650331
+    },
+    {
+      "transaction_id": 598,
+      "fraud_probability": 0.03923409837950151,
+      "decision": "APPROVE",
+      "confidence": 0.9607659016204985
+    },
+    {
+      "transaction_id": 599,
+      "fraud_probability": 0.018590110654161728,
+      "decision": "APPROVE",
+      "confidence": 0.9814098893458383
+    },
+    {
+      "transaction_id": 600,
+      "fraud_probability": 0.06421632567974073,
+      "decision": "APPROVE",
+      "confidence": 0.9357836743202592
+    },
+    {
+      "transaction_id": 601,
+      "fraud_probability": 0.03233406923041162,
+      "decision": "APPROVE",
+      "confidence": 0.9676659307695884
+    },
+    {
+      "transaction_id": 602,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 603,
+      "fraud_probability": 0.01307422258592472,
+      "decision": "APPROVE",
+      "confidence": 0.9869257774140753
+    },
+    {
+      "transaction_id": 604,
+      "fraud_probability": 0.0032242225859247186,
+      "decision": "APPROVE",
+      "confidence": 0.9967757774140753
+    },
+    {
+      "transaction_id": 605,
+      "fraud_probability": 0.0030307692307692344,
+      "decision": "APPROVE",
+      "confidence": 0.9969692307692307
+    },
+    {
+      "transaction_id": 606,
+      "fraud_probability": 0.033450276734619755,
+      "decision": "APPROVE",
+      "confidence": 0.9665497232653802
+    },
+    {
+      "transaction_id": 607,
+      "fraud_probability": 0.06482297548742805,
+      "decision": "APPROVE",
+      "confidence": 0.9351770245125719
+    },
+    {
+      "transaction_id": 608,
+      "fraud_probability": 0.009887076537013803,
+      "decision": "APPROVE",
+      "confidence": 0.9901129234629862
+    },
+    {
+      "transaction_id": 609,
+      "fraud_probability": 0.004471175669541528,
+      "decision": "APPROVE",
+      "confidence": 0.9955288243304584
+    },
+    {
+      "transaction_id": 610,
+      "fraud_probability": 0.0035680326013131014,
+      "decision": "APPROVE",
+      "confidence": 0.9964319673986869
+    },
+    {
+      "transaction_id": 611,
+      "fraud_probability": 0.028289497113249525,
+      "decision": "APPROVE",
+      "confidence": 0.9717105028867504
+    },
+    {
+      "transaction_id": 612,
+      "fraud_probability": 0.0026092715231787996,
+      "decision": "APPROVE",
+      "confidence": 0.9973907284768212
+    },
+    {
+      "transaction_id": 613,
+      "fraud_probability": 0.025596735152861698,
+      "decision": "APPROVE",
+      "confidence": 0.9744032648471384
+    },
+    {
+      "transaction_id": 614,
+      "fraud_probability": 0.06258850712176742,
+      "decision": "APPROVE",
+      "confidence": 0.9374114928782326
+    },
+    {
+      "transaction_id": 615,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 616,
+      "fraud_probability": 0.02623417721518988,
+      "decision": "APPROVE",
+      "confidence": 0.9737658227848102
+    },
+    {
+      "transaction_id": 617,
+      "fraud_probability": 0.005256837891927958,
+      "decision": "APPROVE",
+      "confidence": 0.994743162108072
+    },
+    {
+      "transaction_id": 618,
+      "fraud_probability": 0.0135680326013131,
+      "decision": "APPROVE",
+      "confidence": 0.9864319673986869
+    },
+    {
+      "transaction_id": 619,
+      "fraud_probability": 0.07624888360699454,
+      "decision": "APPROVE",
+      "confidence": 0.9237511163930054
+    },
+    {
+      "transaction_id": 620,
+      "fraud_probability": 0.008133668606745824,
+      "decision": "APPROVE",
+      "confidence": 0.9918663313932542
+    },
+    {
+      "transaction_id": 621,
+      "fraud_probability": 0.029036697247706425,
+      "decision": "APPROVE",
+      "confidence": 0.9709633027522936
+    },
+    {
+      "transaction_id": 622,
+      "fraud_probability": 0.0034683098591549283,
+      "decision": "APPROVE",
+      "confidence": 0.9965316901408451
+    },
+    {
+      "transaction_id": 623,
+      "fraud_probability": 0.018490557034046073,
+      "decision": "APPROVE",
+      "confidence": 0.9815094429659539
+    },
+    {
+      "transaction_id": 624,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 625,
+      "fraud_probability": 0.007726154640061922,
+      "decision": "APPROVE",
+      "confidence": 0.9922738453599381
+    },
+    {
+      "transaction_id": 626,
+      "fraud_probability": 0.0019279479858149997,
+      "decision": "APPROVE",
+      "confidence": 0.998072052014185
+    },
+    {
+      "transaction_id": 627,
+      "fraud_probability": 0.008490512642078413,
+      "decision": "APPROVE",
+      "confidence": 0.9915094873579215
+    },
+    {
+      "transaction_id": 628,
+      "fraud_probability": 0.0071930625285257874,
+      "decision": "APPROVE",
+      "confidence": 0.9928069374714742
+    },
+    {
+      "transaction_id": 629,
+      "fraud_probability": 0.0899895858028609,
+      "decision": "APPROVE",
+      "confidence": 0.9100104141971391
+    },
+    {
+      "transaction_id": 630,
+      "fraud_probability": 0.10377624241436273,
+      "decision": "APPROVE",
+      "confidence": 0.8962237575856373
+    },
+    {
+      "transaction_id": 631,
+      "fraud_probability": 0.021866857663673796,
+      "decision": "APPROVE",
+      "confidence": 0.9781331423363262
+    },
+    {
+      "transaction_id": 632,
+      "fraud_probability": 0.013603626000667349,
+      "decision": "APPROVE",
+      "confidence": 0.9863963739993327
+    },
+    {
+      "transaction_id": 633,
+      "fraud_probability": 0.14442665075896383,
+      "decision": "APPROVE",
+      "confidence": 0.8555733492410362
+    },
+    {
+      "transaction_id": 634,
+      "fraud_probability": 0.0126092715231788,
+      "decision": "APPROVE",
+      "confidence": 0.9873907284768212
+    },
+    {
+      "transaction_id": 635,
+      "fraud_probability": 0.026734566120313764,
+      "decision": "APPROVE",
+      "confidence": 0.9732654338796862
+    },
+    {
+      "transaction_id": 636,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 637,
+      "fraud_probability": 0.01794412026798966,
+      "decision": "APPROVE",
+      "confidence": 0.9820558797320104
+    },
+    {
+      "transaction_id": 638,
+      "fraud_probability": 0.030908347688296343,
+      "decision": "APPROVE",
+      "confidence": 0.9690916523117037
+    },
+    {
+      "transaction_id": 639,
+      "fraud_probability": 0.09203254703556234,
+      "decision": "APPROVE",
+      "confidence": 0.9079674529644377
+    },
+    {
+      "transaction_id": 640,
+      "fraud_probability": 0.05283557289496656,
+      "decision": "APPROVE",
+      "confidence": 0.9471644271050335
+    },
+    {
+      "transaction_id": 641,
+      "fraud_probability": 0.014664574689001585,
+      "decision": "APPROVE",
+      "confidence": 0.9853354253109984
+    },
+    {
+      "transaction_id": 642,
+      "fraud_probability": 0.023670230607966466,
+      "decision": "APPROVE",
+      "confidence": 0.9763297693920335
+    },
+    {
+      "transaction_id": 643,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 644,
+      "fraud_probability": 0.020268215929319124,
+      "decision": "APPROVE",
+      "confidence": 0.9797317840706808
+    },
+    {
+      "transaction_id": 645,
+      "fraud_probability": 0.04216927677169195,
+      "decision": "APPROVE",
+      "confidence": 0.9578307232283081
+    },
+    {
+      "transaction_id": 646,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 647,
+      "fraud_probability": 0.009850000000000001,
+      "decision": "APPROVE",
+      "confidence": 0.99015
+    },
+    {
+      "transaction_id": 648,
+      "fraud_probability": 0.017076886048705765,
+      "decision": "APPROVE",
+      "confidence": 0.9829231139512943
+    },
+    {
+      "transaction_id": 649,
+      "fraud_probability": 0.006138667349248264,
+      "decision": "APPROVE",
+      "confidence": 0.9938613326507517
+    },
+    {
+      "transaction_id": 650,
+      "fraud_probability": 0.0026092715231787996,
+      "decision": "APPROVE",
+      "confidence": 0.9973907284768212
+    },
+    {
+      "transaction_id": 651,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 652,
+      "fraud_probability": 0.008102231425085468,
+      "decision": "APPROVE",
+      "confidence": 0.9918977685749145
+    },
+    {
+      "transaction_id": 653,
+      "fraud_probability": 0.019036697247706423,
+      "decision": "APPROVE",
+      "confidence": 0.9809633027522936
+    },
+    {
+      "transaction_id": 654,
+      "fraud_probability": 0.008583910533842158,
+      "decision": "APPROVE",
+      "confidence": 0.9914160894661579
+    },
+    {
+      "transaction_id": 655,
+      "fraud_probability": 0.0696810114174179,
+      "decision": "APPROVE",
+      "confidence": 0.9303189885825821
+    },
+    {
+      "transaction_id": 656,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 657,
+      "fraud_probability": 0.06424683911523672,
+      "decision": "APPROVE",
+      "confidence": 0.9357531608847632
+    },
+    {
+      "transaction_id": 658,
+      "fraud_probability": 0.014694992128205553,
+      "decision": "APPROVE",
+      "confidence": 0.9853050078717944
+    },
+    {
+      "transaction_id": 659,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 660,
+      "fraud_probability": 0.014869358364407876,
+      "decision": "APPROVE",
+      "confidence": 0.9851306416355922
+    },
+    {
+      "transaction_id": 661,
+      "fraud_probability": 0.011915490228431747,
+      "decision": "APPROVE",
+      "confidence": 0.9880845097715683
+    },
+    {
+      "transaction_id": 662,
+      "fraud_probability": 0.004471175669541528,
+      "decision": "APPROVE",
+      "confidence": 0.9955288243304584
+    },
+    {
+      "transaction_id": 663,
+      "fraud_probability": 0.04789299896013655,
+      "decision": "APPROVE",
+      "confidence": 0.9521070010398635
+    },
+    {
+      "transaction_id": 664,
+      "fraud_probability": 0.0010346638655462158,
+      "decision": "APPROVE",
+      "confidence": 0.9989653361344538
+    },
+    {
+      "transaction_id": 665,
+      "fraud_probability": 0.057303804760009645,
+      "decision": "APPROVE",
+      "confidence": 0.9426961952399904
+    },
+    {
+      "transaction_id": 666,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 667,
+      "fraud_probability": 0.010176195188052017,
+      "decision": "APPROVE",
+      "confidence": 0.989823804811948
+    },
+    {
+      "transaction_id": 668,
+      "fraud_probability": 0.005256837891927958,
+      "decision": "APPROVE",
+      "confidence": 0.994743162108072
+    },
+    {
+      "transaction_id": 669,
+      "fraud_probability": 0.04734298651824164,
+      "decision": "APPROVE",
+      "confidence": 0.9526570134817584
+    },
+    {
+      "transaction_id": 670,
+      "fraud_probability": 0.0747029340195476,
+      "decision": "APPROVE",
+      "confidence": 0.9252970659804524
+    },
+    {
+      "transaction_id": 671,
+      "fraud_probability": 0.10406100178025426,
+      "decision": "APPROVE",
+      "confidence": 0.8959389982197458
+    },
+    {
+      "transaction_id": 672,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 673,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": 674,
+      "fraud_probability": 0.01810223142508547,
+      "decision": "APPROVE",
+      "confidence": 0.9818977685749145
+    },
+    {
+      "transaction_id": 675,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 676,
+      "fraud_probability": 0.049850000000000005,
+      "decision": "APPROVE",
+      "confidence": 0.95015
+    },
+    {
+      "transaction_id": 677,
+      "fraud_probability": 0.04989949748743719,
+      "decision": "APPROVE",
+      "confidence": 0.9501005025125628
+    },
+    {
+      "transaction_id": 678,
+      "fraud_probability": 0.0074523450693820235,
+      "decision": "APPROVE",
+      "confidence": 0.992547654930618
+    },
+    {
+      "transaction_id": 679,
+      "fraud_probability": 0.014471175669541527,
+      "decision": "APPROVE",
+      "confidence": 0.9855288243304585
+    },
+    {
+      "transaction_id": 680,
+      "fraud_probability": 0.08520000021055205,
+      "decision": "APPROVE",
+      "confidence": 0.9147999997894479
+    },
+    {
+      "transaction_id": 681,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 682,
+      "fraud_probability": 0.023192687718560583,
+      "decision": "APPROVE",
+      "confidence": 0.9768073122814395
+    },
+    {
+      "transaction_id": 683,
+      "fraud_probability": 0.011497649745220679,
+      "decision": "APPROVE",
+      "confidence": 0.9885023502547793
+    },
+    {
+      "transaction_id": 684,
+      "fraud_probability": 0.009258538974523308,
+      "decision": "APPROVE",
+      "confidence": 0.9907414610254767
+    },
+    {
+      "transaction_id": 685,
+      "fraud_probability": 0.017755905511811026,
+      "decision": "APPROVE",
+      "confidence": 0.982244094488189
+    },
+    {
+      "transaction_id": 686,
+      "fraud_probability": 0.014145176210361548,
+      "decision": "APPROVE",
+      "confidence": 0.9858548237896384
+    },
+    {
+      "transaction_id": 687,
+      "fraud_probability": 0.032968901570586906,
+      "decision": "APPROVE",
+      "confidence": 0.967031098429413
+    },
+    {
+      "transaction_id": 688,
+      "fraud_probability": 0.018873873873873875,
+      "decision": "APPROVE",
+      "confidence": 0.9811261261261262
+    },
+    {
+      "transaction_id": 689,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 690,
+      "fraud_probability": 0.11835298304815722,
+      "decision": "APPROVE",
+      "confidence": 0.8816470169518428
+    },
+    {
+      "transaction_id": 691,
+      "fraud_probability": 0.033000595038841826,
+      "decision": "APPROVE",
+      "confidence": 0.9669994049611582
+    },
+    {
+      "transaction_id": 692,
+      "fraud_probability": 0.03394679523096272,
+      "decision": "APPROVE",
+      "confidence": 0.9660532047690373
+    },
+    {
+      "transaction_id": 693,
+      "fraud_probability": 0.03171848377677358,
+      "decision": "APPROVE",
+      "confidence": 0.9682815162232264
+    },
+    {
+      "transaction_id": 694,
+      "fraud_probability": 0.017388707869105166,
+      "decision": "APPROVE",
+      "confidence": 0.9826112921308948
+    },
+    {
+      "transaction_id": 695,
+      "fraud_probability": 0.0010346638655462158,
+      "decision": "APPROVE",
+      "confidence": 0.9989653361344538
+    },
+    {
+      "transaction_id": 696,
+      "fraud_probability": 0.04364417383309266,
+      "decision": "APPROVE",
+      "confidence": 0.9563558261669074
+    },
+    {
+      "transaction_id": 697,
+      "fraud_probability": 0.0669185603888138,
+      "decision": "APPROVE",
+      "confidence": 0.9330814396111862
+    },
+    {
+      "transaction_id": 698,
+      "fraud_probability": 0.0036310557555439414,
+      "decision": "APPROVE",
+      "confidence": 0.9963689442444561
+    },
+    {
+      "transaction_id": 699,
+      "fraud_probability": 0.020763077014057458,
+      "decision": "APPROVE",
+      "confidence": 0.9792369229859426
+    },
+    {
+      "transaction_id": 700,
+      "fraud_probability": 0.009897855032692547,
+      "decision": "APPROVE",
+      "confidence": 0.9901021449673074
+    },
+    {
+      "transaction_id": 701,
+      "fraud_probability": 0.01384835580820155,
+      "decision": "APPROVE",
+      "confidence": 0.9861516441917985
+    },
+    {
+      "transaction_id": 702,
+      "fraud_probability": 0.10329323509532244,
+      "decision": "APPROVE",
+      "confidence": 0.8967067649046776
+    },
+    {
+      "transaction_id": 703,
+      "fraud_probability": 0.017967598825487353,
+      "decision": "APPROVE",
+      "confidence": 0.9820324011745126
+    },
+    {
+      "transaction_id": 704,
+      "fraud_probability": 0.004377777777777783,
+      "decision": "APPROVE",
+      "confidence": 0.9956222222222222
+    },
+    {
+      "transaction_id": 705,
+      "fraud_probability": 0.013006486074017538,
+      "decision": "APPROVE",
+      "confidence": 0.9869935139259824
+    },
+    {
+      "transaction_id": 706,
+      "fraud_probability": 0.01026293568883161,
+      "decision": "APPROVE",
+      "confidence": 0.9897370643111684
+    },
+    {
+      "transaction_id": 707,
+      "fraud_probability": 0.019564514997180954,
+      "decision": "APPROVE",
+      "confidence": 0.9804354850028191
+    },
+    {
+      "transaction_id": 708,
+      "fraud_probability": 0.0126092715231788,
+      "decision": "APPROVE",
+      "confidence": 0.9873907284768212
+    },
+    {
+      "transaction_id": 709,
+      "fraud_probability": 0.02902629841493347,
+      "decision": "APPROVE",
+      "confidence": 0.9709737015850666
+    },
+    {
+      "transaction_id": 710,
+      "fraud_probability": 0.014761214658334059,
+      "decision": "APPROVE",
+      "confidence": 0.985238785341666
+    },
+    {
+      "transaction_id": 711,
+      "fraud_probability": 0.030676757378192532,
+      "decision": "APPROVE",
+      "confidence": 0.9693232426218075
+    },
+    {
+      "transaction_id": 712,
+      "fraud_probability": 0.07681257446715221,
+      "decision": "APPROVE",
+      "confidence": 0.9231874255328478
+    },
+    {
+      "transaction_id": 713,
+      "fraud_probability": 0.039028986213138495,
+      "decision": "APPROVE",
+      "confidence": 0.9609710137868614
+    },
+    {
+      "transaction_id": 714,
+      "fraud_probability": 0.02547985170078194,
+      "decision": "APPROVE",
+      "confidence": 0.9745201482992181
+    },
+    {
+      "transaction_id": 715,
+      "fraud_probability": 0.020589184123967947,
+      "decision": "APPROVE",
+      "confidence": 0.9794108158760321
+    },
+    {
+      "transaction_id": 716,
+      "fraud_probability": 0.17669051660562793,
+      "decision": "APPROVE",
+      "confidence": 0.823309483394372
+    },
+    {
+      "transaction_id": 717,
+      "fraud_probability": 0.06881908956562834,
+      "decision": "APPROVE",
+      "confidence": 0.9311809104343717
+    },
+    {
+      "transaction_id": 718,
+      "fraud_probability": 0.018914176857880726,
+      "decision": "APPROVE",
+      "confidence": 0.9810858231421192
+    },
+    {
+      "transaction_id": 719,
+      "fraud_probability": 0.03439688546790695,
+      "decision": "APPROVE",
+      "confidence": 0.965603114532093
+    },
+    {
+      "transaction_id": 720,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 721,
+      "fraud_probability": 0.02062554822714625,
+      "decision": "APPROVE",
+      "confidence": 0.9793744517728538
+    },
+    {
+      "transaction_id": 722,
+      "fraud_probability": 0.0030064860740175374,
+      "decision": "APPROVE",
+      "confidence": 0.9969935139259825
+    },
+    {
+      "transaction_id": 723,
+      "fraud_probability": 0.04545632639931388,
+      "decision": "APPROVE",
+      "confidence": 0.9545436736006861
+    },
+    {
+      "transaction_id": 724,
+      "fraud_probability": 0.006671127193281896,
+      "decision": "APPROVE",
+      "confidence": 0.9933288728067181
+    },
+    {
+      "transaction_id": 725,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 726,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 727,
+      "fraud_probability": 0.1954137186616181,
+      "decision": "APPROVE",
+      "confidence": 0.804586281338382
+    },
+    {
+      "transaction_id": 728,
+      "fraud_probability": 0.021210715295087213,
+      "decision": "APPROVE",
+      "confidence": 0.9787892847049128
+    },
+    {
+      "transaction_id": 729,
+      "fraud_probability": 0.055894061211519394,
+      "decision": "APPROVE",
+      "confidence": 0.9441059387884806
+    },
+    {
+      "transaction_id": 730,
+      "fraud_probability": 0.04164584913775543,
+      "decision": "APPROVE",
+      "confidence": 0.9583541508622446
+    },
+    {
+      "transaction_id": 731,
+      "fraud_probability": 0.057519679993199985,
+      "decision": "APPROVE",
+      "confidence": 0.9424803200068
+    },
+    {
+      "transaction_id": 732,
+      "fraud_probability": 0.006138667349248264,
+      "decision": "APPROVE",
+      "confidence": 0.9938613326507517
+    },
+    {
+      "transaction_id": 733,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 734,
+      "fraud_probability": 0.16921996879875195,
+      "decision": "APPROVE",
+      "confidence": 0.8307800312012481
+    },
+    {
+      "transaction_id": 735,
+      "fraud_probability": 0.00512353706111834,
+      "decision": "APPROVE",
+      "confidence": 0.9948764629388817
+    },
+    {
+      "transaction_id": 736,
+      "fraud_probability": 0.022103076494097974,
+      "decision": "APPROVE",
+      "confidence": 0.9778969235059021
+    },
+    {
+      "transaction_id": 737,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 738,
+      "fraud_probability": 0.004061855670103096,
+      "decision": "APPROVE",
+      "confidence": 0.9959381443298969
+    },
+    {
+      "transaction_id": 739,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 740,
+      "fraud_probability": 0.02700294165144446,
+      "decision": "APPROVE",
+      "confidence": 0.9729970583485555
+    },
+    {
+      "transaction_id": 741,
+      "fraud_probability": 0.00411273486430063,
+      "decision": "APPROVE",
+      "confidence": 0.9958872651356994
+    },
+    {
+      "transaction_id": 742,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 743,
+      "fraud_probability": 0.015255037727124053,
+      "decision": "APPROVE",
+      "confidence": 0.984744962272876
+    },
+    {
+      "transaction_id": 744,
+      "fraud_probability": 0.06386256300504968,
+      "decision": "APPROVE",
+      "confidence": 0.9361374369949503
+    },
+    {
+      "transaction_id": 745,
+      "fraud_probability": 0.02441428878031793,
+      "decision": "APPROVE",
+      "confidence": 0.9755857112196821
+    },
+    {
+      "transaction_id": 746,
+      "fraud_probability": 0.00411273486430063,
+      "decision": "APPROVE",
+      "confidence": 0.9958872651356994
+    },
+    {
+      "transaction_id": 747,
+      "fraud_probability": 0.026660610150807756,
+      "decision": "APPROVE",
+      "confidence": 0.9733393898491922
+    },
+    {
+      "transaction_id": 748,
+      "fraud_probability": 0.009132450331125821,
+      "decision": "APPROVE",
+      "confidence": 0.9908675496688741
+    },
+    {
+      "transaction_id": 749,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 750,
+      "fraud_probability": 0.007726154640061922,
+      "decision": "APPROVE",
+      "confidence": 0.9922738453599381
+    },
+    {
+      "transaction_id": 751,
+      "fraud_probability": 0.02552957816425706,
+      "decision": "APPROVE",
+      "confidence": 0.974470421835743
+    },
+    {
+      "transaction_id": 752,
+      "fraud_probability": 0.0126092715231788,
+      "decision": "APPROVE",
+      "confidence": 0.9873907284768212
+    },
+    {
+      "transaction_id": 753,
+      "fraud_probability": 0.0061773041244919,
+      "decision": "APPROVE",
+      "confidence": 0.9938226958755081
+    },
+    {
+      "transaction_id": 754,
+      "fraud_probability": 0.018988944116690668,
+      "decision": "APPROVE",
+      "confidence": 0.9810110558833093
+    },
+    {
+      "transaction_id": 755,
+      "fraud_probability": 0.03823512380203036,
+      "decision": "APPROVE",
+      "confidence": 0.9617648761979697
+    },
+    {
+      "transaction_id": 756,
+      "fraud_probability": 0.027452362168776875,
+      "decision": "APPROVE",
+      "confidence": 0.9725476378312231
+    },
+    {
+      "transaction_id": 757,
+      "fraud_probability": 0.02975247524752475,
+      "decision": "APPROVE",
+      "confidence": 0.9702475247524752
+    },
+    {
+      "transaction_id": 758,
+      "fraud_probability": 0.013720001960621342,
+      "decision": "APPROVE",
+      "confidence": 0.9862799980393786
+    },
+    {
+      "transaction_id": 759,
+      "fraud_probability": 0.01178001669987498,
+      "decision": "APPROVE",
+      "confidence": 0.9882199833001251
+    },
+    {
+      "transaction_id": 760,
+      "fraud_probability": 0.012102671996633712,
+      "decision": "APPROVE",
+      "confidence": 0.9878973280033663
+    },
+    {
+      "transaction_id": 761,
+      "fraud_probability": 0.012477843966493223,
+      "decision": "APPROVE",
+      "confidence": 0.9875221560335068
+    },
+    {
+      "transaction_id": 762,
+      "fraud_probability": 0.03153403915672609,
+      "decision": "APPROVE",
+      "confidence": 0.968465960843274
+    },
+    {
+      "transaction_id": 763,
+      "fraud_probability": 0.029667228191179316,
+      "decision": "APPROVE",
+      "confidence": 0.9703327718088207
+    },
+    {
+      "transaction_id": 764,
+      "fraud_probability": 0.011981298164472807,
+      "decision": "APPROVE",
+      "confidence": 0.9880187018355272
+    },
+    {
+      "transaction_id": 765,
+      "fraud_probability": 0.014657656371617193,
+      "decision": "APPROVE",
+      "confidence": 0.9853423436283828
+    },
+    {
+      "transaction_id": 766,
+      "fraud_probability": 0.018133668606745822,
+      "decision": "APPROVE",
+      "confidence": 0.9818663313932542
+    },
+    {
+      "transaction_id": 767,
+      "fraud_probability": 0.01255236831218151,
+      "decision": "APPROVE",
+      "confidence": 0.9874476316878185
+    },
+    {
+      "transaction_id": 768,
+      "fraud_probability": 0.017403136198606107,
+      "decision": "APPROVE",
+      "confidence": 0.9825968638013939
+    },
+    {
+      "transaction_id": 769,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 770,
+      "fraud_probability": 0.008490512642078413,
+      "decision": "APPROVE",
+      "confidence": 0.9915094873579215
+    },
+    {
+      "transaction_id": 771,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": 772,
+      "fraud_probability": 0.006523178807947021,
+      "decision": "APPROVE",
+      "confidence": 0.9934768211920529
+    },
+    {
+      "transaction_id": 773,
+      "fraud_probability": 0.012444191384676668,
+      "decision": "APPROVE",
+      "confidence": 0.9875558086153233
+    },
+    {
+      "transaction_id": 774,
+      "fraud_probability": 0.04288580484195385,
+      "decision": "APPROVE",
+      "confidence": 0.9571141951580462
+    },
+    {
+      "transaction_id": 775,
+      "fraud_probability": 0.042102671996633714,
+      "decision": "APPROVE",
+      "confidence": 0.9578973280033662
+    },
+    {
+      "transaction_id": 776,
+      "fraud_probability": 0.00921996879875195,
+      "decision": "APPROVE",
+      "confidence": 0.990780031201248
+    },
+    {
+      "transaction_id": 777,
+      "fraud_probability": 0.007785133271189861,
+      "decision": "APPROVE",
+      "confidence": 0.9922148667288101
+    },
+    {
+      "transaction_id": 778,
+      "fraud_probability": 0.008040816326530616,
+      "decision": "APPROVE",
+      "confidence": 0.9919591836734694
+    },
+    {
+      "transaction_id": 779,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 780,
+      "fraud_probability": 0.14039043261449433,
+      "decision": "APPROVE",
+      "confidence": 0.8596095673855056
+    },
+    {
+      "transaction_id": 781,
+      "fraud_probability": 0.028042838618309317,
+      "decision": "APPROVE",
+      "confidence": 0.9719571613816906
+    },
+    {
+      "transaction_id": 782,
+      "fraud_probability": 0.008676953763138831,
+      "decision": "APPROVE",
+      "confidence": 0.9913230462368612
+    },
+    {
+      "transaction_id": 783,
+      "fraud_probability": 0.08942583732057416,
+      "decision": "APPROVE",
+      "confidence": 0.9105741626794258
+    },
+    {
+      "transaction_id": 784,
+      "fraud_probability": 0.016256178120969772,
+      "decision": "APPROVE",
+      "confidence": 0.9837438218790302
+    },
+    {
+      "transaction_id": 785,
+      "fraud_probability": 0.02800414469198499,
+      "decision": "APPROVE",
+      "confidence": 0.971995855308015
+    },
+    {
+      "transaction_id": 786,
+      "fraud_probability": 0.012864826673636755,
+      "decision": "APPROVE",
+      "confidence": 0.9871351733263632
+    },
+    {
+      "transaction_id": 787,
+      "fraud_probability": 0.009060992503219772,
+      "decision": "APPROVE",
+      "confidence": 0.9909390074967802
+    },
+    {
+      "transaction_id": 788,
+      "fraud_probability": 0.0074523450693820235,
+      "decision": "APPROVE",
+      "confidence": 0.992547654930618
+    },
+    {
+      "transaction_id": 789,
+      "fraud_probability": 0.024409544345053314,
+      "decision": "APPROVE",
+      "confidence": 0.9755904556549467
+    },
+    {
+      "transaction_id": 790,
+      "fraud_probability": 0.015116883116883122,
+      "decision": "APPROVE",
+      "confidence": 0.9848831168831169
+    },
+    {
+      "transaction_id": 791,
+      "fraud_probability": 0.012616242171578513,
+      "decision": "APPROVE",
+      "confidence": 0.9873837578284215
+    },
+    {
+      "transaction_id": 792,
+      "fraud_probability": 0.01102178423236514,
+      "decision": "APPROVE",
+      "confidence": 0.9889782157676349
+    },
+    {
+      "transaction_id": 793,
+      "fraud_probability": 0.00803920827085463,
+      "decision": "APPROVE",
+      "confidence": 0.9919607917291454
+    },
+    {
+      "transaction_id": 794,
+      "fraud_probability": 0.02144101014933821,
+      "decision": "APPROVE",
+      "confidence": 0.9785589898506618
+    },
+    {
+      "transaction_id": 795,
+      "fraud_probability": 0.01985,
+      "decision": "APPROVE",
+      "confidence": 0.98015
+    },
+    {
+      "transaction_id": 796,
+      "fraud_probability": 0.06706607383901579,
+      "decision": "APPROVE",
+      "confidence": 0.9329339261609843
+    },
+    {
+      "transaction_id": 797,
+      "fraud_probability": 0.018133668606745822,
+      "decision": "APPROVE",
+      "confidence": 0.9818663313932542
+    },
+    {
+      "transaction_id": 798,
+      "fraud_probability": 0.07536039589678378,
+      "decision": "APPROVE",
+      "confidence": 0.9246396041032162
+    },
+    {
+      "transaction_id": 799,
+      "fraud_probability": 0.0035680326013131014,
+      "decision": "APPROVE",
+      "confidence": 0.9964319673986869
+    },
+    {
+      "transaction_id": 800,
+      "fraud_probability": 0.0126092715231788,
+      "decision": "APPROVE",
+      "confidence": 0.9873907284768212
+    },
+    {
+      "transaction_id": 801,
+      "fraud_probability": 0.01719240661683211,
+      "decision": "APPROVE",
+      "confidence": 0.9828075933831679
+    },
+    {
+      "transaction_id": 802,
+      "fraud_probability": 0.014965959604375608,
+      "decision": "APPROVE",
+      "confidence": 0.9850340403956244
+    },
+    {
+      "transaction_id": 803,
+      "fraud_probability": 0.04974522775108507,
+      "decision": "APPROVE",
+      "confidence": 0.950254772248915
+    },
+    {
+      "transaction_id": 804,
+      "fraud_probability": 0.01323674425775482,
+      "decision": "APPROVE",
+      "confidence": 0.9867632557422452
+    },
+    {
+      "transaction_id": 805,
+      "fraud_probability": 0.0074523450693820235,
+      "decision": "APPROVE",
+      "confidence": 0.992547654930618
+    },
+    {
+      "transaction_id": 806,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 807,
+      "fraud_probability": 0.016432516111531403,
+      "decision": "APPROVE",
+      "confidence": 0.9835674838884686
+    },
+    {
+      "transaction_id": 808,
+      "fraud_probability": 0.031470404261587544,
+      "decision": "APPROVE",
+      "confidence": 0.9685295957384125
+    },
+    {
+      "transaction_id": 809,
+      "fraud_probability": 0.04374339131771607,
+      "decision": "APPROVE",
+      "confidence": 0.9562566086822839
+    },
+    {
+      "transaction_id": 810,
+      "fraud_probability": 0.027717922565402685,
+      "decision": "APPROVE",
+      "confidence": 0.9722820774345973
+    },
+    {
+      "transaction_id": 811,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 812,
+      "fraud_probability": 0.027596036396004643,
+      "decision": "APPROVE",
+      "confidence": 0.9724039636039954
+    },
+    {
+      "transaction_id": 813,
+      "fraud_probability": 0.02248387894769609,
+      "decision": "APPROVE",
+      "confidence": 0.9775161210523039
+    },
+    {
+      "transaction_id": 814,
+      "fraud_probability": 0.039850000000000003,
+      "decision": "APPROVE",
+      "confidence": 0.96015
+    },
+    {
+      "transaction_id": 815,
+      "fraud_probability": 0.01772615464006192,
+      "decision": "APPROVE",
+      "confidence": 0.9822738453599381
+    },
+    {
+      "transaction_id": 816,
+      "fraud_probability": 0.07869777491643153,
+      "decision": "APPROVE",
+      "confidence": 0.9213022250835685
+    },
+    {
+      "transaction_id": 817,
+      "fraud_probability": 0.011672325976230904,
+      "decision": "APPROVE",
+      "confidence": 0.9883276740237691
+    },
+    {
+      "transaction_id": 818,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 819,
+      "fraud_probability": 0.01322422258592472,
+      "decision": "APPROVE",
+      "confidence": 0.9867757774140753
+    },
+    {
+      "transaction_id": 820,
+      "fraud_probability": 0.00849137931034483,
+      "decision": "APPROVE",
+      "confidence": 0.9915086206896552
+    },
+    {
+      "transaction_id": 821,
+      "fraud_probability": 0.0228800876453888,
+      "decision": "APPROVE",
+      "confidence": 0.9771199123546112
+    },
+    {
+      "transaction_id": 822,
+      "fraud_probability": 0.0034683098591549283,
+      "decision": "APPROVE",
+      "confidence": 0.9965316901408451
+    },
+    {
+      "transaction_id": 823,
+      "fraud_probability": 0.01779515821932618,
+      "decision": "APPROVE",
+      "confidence": 0.9822048417806738
+    },
+    {
+      "transaction_id": 824,
+      "fraud_probability": 0.011917101838757818,
+      "decision": "APPROVE",
+      "confidence": 0.9880828981612422
+    },
+    {
+      "transaction_id": 825,
+      "fraud_probability": 0.008949527643893437,
+      "decision": "APPROVE",
+      "confidence": 0.9910504723561065
+    },
+    {
+      "transaction_id": 826,
+      "fraud_probability": 0.014471175669541527,
+      "decision": "APPROVE",
+      "confidence": 0.9855288243304585
+    },
+    {
+      "transaction_id": 827,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 828,
+      "fraud_probability": 0.042372616567888495,
+      "decision": "APPROVE",
+      "confidence": 0.9576273834321115
+    },
+    {
+      "transaction_id": 829,
+      "fraud_probability": 0.02316860949146354,
+      "decision": "APPROVE",
+      "confidence": 0.9768313905085365
+    },
+    {
+      "transaction_id": 830,
+      "fraud_probability": 0.009092429684880124,
+      "decision": "APPROVE",
+      "confidence": 0.9909075703151199
+    },
+    {
+      "transaction_id": 831,
+      "fraud_probability": 0.03758723103306947,
+      "decision": "APPROVE",
+      "confidence": 0.9624127689669305
+    },
+    {
+      "transaction_id": 832,
+      "fraud_probability": 0.00907834101382489,
+      "decision": "APPROVE",
+      "confidence": 0.9909216589861751
+    },
+    {
+      "transaction_id": 833,
+      "fraud_probability": 0.0071930625285257874,
+      "decision": "APPROVE",
+      "confidence": 0.9928069374714742
+    },
+    {
+      "transaction_id": 834,
+      "fraud_probability": 0.1268893425974215,
+      "decision": "APPROVE",
+      "confidence": 0.8731106574025785
+    },
+    {
+      "transaction_id": 835,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 836,
+      "fraud_probability": 0.0019279479858149997,
+      "decision": "APPROVE",
+      "confidence": 0.998072052014185
+    },
+    {
+      "transaction_id": 837,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 838,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 839,
+      "fraud_probability": 0.05174719569948279,
+      "decision": "APPROVE",
+      "confidence": 0.9482528043005172
+    },
+    {
+      "transaction_id": 840,
+      "fraud_probability": 0.016621792100469896,
+      "decision": "APPROVE",
+      "confidence": 0.9833782078995301
+    },
+    {
+      "transaction_id": 841,
+      "fraud_probability": 0.011697745250641343,
+      "decision": "APPROVE",
+      "confidence": 0.9883022547493586
+    },
+    {
+      "transaction_id": 842,
+      "fraud_probability": 0.0035680326013131014,
+      "decision": "APPROVE",
+      "confidence": 0.9964319673986869
+    },
+    {
+      "transaction_id": 843,
+      "fraud_probability": 0.045985675347521,
+      "decision": "APPROVE",
+      "confidence": 0.954014324652479
+    },
+    {
+      "transaction_id": 844,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 845,
+      "fraud_probability": 0.07926687137048272,
+      "decision": "APPROVE",
+      "confidence": 0.9207331286295173
+    },
+    {
+      "transaction_id": 846,
+      "fraud_probability": 0.005256837891927958,
+      "decision": "APPROVE",
+      "confidence": 0.994743162108072
+    },
+    {
+      "transaction_id": 847,
+      "fraud_probability": 0.04002661583536096,
+      "decision": "APPROVE",
+      "confidence": 0.9599733841646391
+    },
+    {
+      "transaction_id": 848,
+      "fraud_probability": 0.03858391053384216,
+      "decision": "APPROVE",
+      "confidence": 0.9614160894661579
+    },
+    {
+      "transaction_id": 849,
+      "fraud_probability": 0.033496565978588154,
+      "decision": "APPROVE",
+      "confidence": 0.9665034340214118
+    },
+    {
+      "transaction_id": 850,
+      "fraud_probability": 0.0378801459860751,
+      "decision": "APPROVE",
+      "confidence": 0.9621198540139249
+    },
+    {
+      "transaction_id": 851,
+      "fraud_probability": 0.02949278494074371,
+      "decision": "APPROVE",
+      "confidence": 0.9705072150592563
+    },
+    {
+      "transaction_id": 852,
+      "fraud_probability": 0.022043259448548225,
+      "decision": "APPROVE",
+      "confidence": 0.9779567405514518
+    },
+    {
+      "transaction_id": 853,
+      "fraud_probability": 0.008987226277372265,
+      "decision": "APPROVE",
+      "confidence": 0.9910127737226277
+    },
+    {
+      "transaction_id": 854,
+      "fraud_probability": 0.008102231425085468,
+      "decision": "APPROVE",
+      "confidence": 0.9918977685749145
+    },
+    {
+      "transaction_id": 855,
+      "fraud_probability": 0.01714594311710754,
+      "decision": "APPROVE",
+      "confidence": 0.9828540568828925
+    },
+    {
+      "transaction_id": 856,
+      "fraud_probability": 0.023920398009950238,
+      "decision": "APPROVE",
+      "confidence": 0.9760796019900497
+    },
+    {
+      "transaction_id": 857,
+      "fraud_probability": 0.019358669833729216,
+      "decision": "APPROVE",
+      "confidence": 0.9806413301662708
+    },
+    {
+      "transaction_id": 858,
+      "fraud_probability": 0.046893899738284714,
+      "decision": "APPROVE",
+      "confidence": 0.9531061002617153
+    },
+    {
+      "transaction_id": 859,
+      "fraud_probability": 0.1313383238848654,
+      "decision": "APPROVE",
+      "confidence": 0.8686616761151346
+    },
+    {
+      "transaction_id": 860,
+      "fraud_probability": 0.06271975480823504,
+      "decision": "APPROVE",
+      "confidence": 0.937280245191765
+    },
+    {
+      "transaction_id": 861,
+      "fraud_probability": 0.008102231425085468,
+      "decision": "APPROVE",
+      "confidence": 0.9918977685749145
+    },
+    {
+      "transaction_id": 862,
+      "fraud_probability": 0.008490512642078413,
+      "decision": "APPROVE",
+      "confidence": 0.9915094873579215
+    },
+    {
+      "transaction_id": 863,
+      "fraud_probability": 0.02877746740085369,
+      "decision": "APPROVE",
+      "confidence": 0.9712225325991463
+    },
+    {
+      "transaction_id": 864,
+      "fraud_probability": 0.013331528294789825,
+      "decision": "APPROVE",
+      "confidence": 0.9866684717052102
+    },
+    {
+      "transaction_id": 865,
+      "fraud_probability": 0.0035680326013131014,
+      "decision": "APPROVE",
+      "confidence": 0.9964319673986869
+    },
+    {
+      "transaction_id": 866,
+      "fraud_probability": 0.03804081632653061,
+      "decision": "APPROVE",
+      "confidence": 0.9619591836734693
+    },
+    {
+      "transaction_id": 867,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 868,
+      "fraud_probability": 0.012226454872769488,
+      "decision": "APPROVE",
+      "confidence": 0.9877735451272305
+    },
+    {
+      "transaction_id": 869,
+      "fraud_probability": 0.016174484933276435,
+      "decision": "APPROVE",
+      "confidence": 0.9838255150667236
+    },
+    {
+      "transaction_id": 870,
+      "fraud_probability": 0.03102178423236514,
+      "decision": "APPROVE",
+      "confidence": 0.9689782157676349
+    },
+    {
+      "transaction_id": 871,
+      "fraud_probability": 0.015982117773433568,
+      "decision": "APPROVE",
+      "confidence": 0.9840178822265664
+    },
+    {
+      "transaction_id": 872,
+      "fraud_probability": 0.047876413054633374,
+      "decision": "APPROVE",
+      "confidence": 0.9521235869453666
+    },
+    {
+      "transaction_id": 873,
+      "fraud_probability": 0.004281597499409703,
+      "decision": "APPROVE",
+      "confidence": 0.9957184025005903
+    },
+    {
+      "transaction_id": 874,
+      "fraud_probability": 0.09735835319779719,
+      "decision": "APPROVE",
+      "confidence": 0.9026416468022028
+    },
+    {
+      "transaction_id": 875,
+      "fraud_probability": 0.012839377845220037,
+      "decision": "APPROVE",
+      "confidence": 0.98716062215478
+    },
+    {
+      "transaction_id": 876,
+      "fraud_probability": 0.019240663289207417,
+      "decision": "APPROVE",
+      "confidence": 0.9807593367107926
+    },
+    {
+      "transaction_id": 877,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 878,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 879,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 880,
+      "fraud_probability": 0.01708699526287784,
+      "decision": "APPROVE",
+      "confidence": 0.9829130047371222
+    },
+    {
+      "transaction_id": 881,
+      "fraud_probability": 0.1622449554019588,
+      "decision": "APPROVE",
+      "confidence": 0.8377550445980412
+    },
+    {
+      "transaction_id": 882,
+      "fraud_probability": 0.08155996687870028,
+      "decision": "APPROVE",
+      "confidence": 0.9184400331212997
+    },
+    {
+      "transaction_id": 883,
+      "fraud_probability": 0.04300648607401754,
+      "decision": "APPROVE",
+      "confidence": 0.9569935139259824
+    },
+    {
+      "transaction_id": 884,
+      "fraud_probability": 0.020624212394009557,
+      "decision": "APPROVE",
+      "confidence": 0.9793757876059904
+    },
+    {
+      "transaction_id": 885,
+      "fraud_probability": 0.029425837320574164,
+      "decision": "APPROVE",
+      "confidence": 0.9705741626794259
+    },
+    {
+      "transaction_id": 886,
+      "fraud_probability": 0.011497649745220679,
+      "decision": "APPROVE",
+      "confidence": 0.9885023502547793
+    },
+    {
+      "transaction_id": 887,
+      "fraud_probability": 0.007655169530773688,
+      "decision": "APPROVE",
+      "confidence": 0.9923448304692263
+    },
+    {
+      "transaction_id": 888,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 889,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 890,
+      "fraud_probability": 0.024108074782611438,
+      "decision": "APPROVE",
+      "confidence": 0.9758919252173885
+    },
+    {
+      "transaction_id": 891,
+      "fraud_probability": 0.022834205729125676,
+      "decision": "APPROVE",
+      "confidence": 0.9771657942708744
+    },
+    {
+      "transaction_id": 892,
+      "fraud_probability": 0.038534647965371496,
+      "decision": "APPROVE",
+      "confidence": 0.9614653520346285
+    },
+    {
+      "transaction_id": 893,
+      "fraud_probability": 0.005116883116883122,
+      "decision": "APPROVE",
+      "confidence": 0.9948831168831169
+    },
+    {
+      "transaction_id": 894,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 895,
+      "fraud_probability": 0.012598460352763304,
+      "decision": "APPROVE",
+      "confidence": 0.9874015396472366
+    },
+    {
+      "transaction_id": 896,
+      "fraud_probability": 0.06010379042277623,
+      "decision": "APPROVE",
+      "confidence": 0.9398962095772238
+    },
+    {
+      "transaction_id": 897,
+      "fraud_probability": 0.01673456612031377,
+      "decision": "APPROVE",
+      "confidence": 0.9832654338796862
+    },
+    {
+      "transaction_id": 898,
+      "fraud_probability": 0.0019389763779527596,
+      "decision": "APPROVE",
+      "confidence": 0.9980610236220473
+    },
+    {
+      "transaction_id": 899,
+      "fraud_probability": 0.05513249135393064,
+      "decision": "APPROVE",
+      "confidence": 0.9448675086460694
+    },
+    {
+      "transaction_id": 900,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 901,
+      "fraud_probability": 0.0071930625285257874,
+      "decision": "APPROVE",
+      "confidence": 0.9928069374714742
+    },
+    {
+      "transaction_id": 902,
+      "fraud_probability": 0.01626381419403682,
+      "decision": "APPROVE",
+      "confidence": 0.9837361858059632
+    },
+    {
+      "transaction_id": 903,
+      "fraud_probability": 0.013528281507589111,
+      "decision": "APPROVE",
+      "confidence": 0.9864717184924109
+    },
+    {
+      "transaction_id": 904,
+      "fraud_probability": 0.028085377104269203,
+      "decision": "APPROVE",
+      "confidence": 0.9719146228957308
+    },
+    {
+      "transaction_id": 905,
+      "fraud_probability": 0.056259733618994154,
+      "decision": "APPROVE",
+      "confidence": 0.9437402663810058
+    },
+    {
+      "transaction_id": 906,
+      "fraud_probability": 0.033498656243590566,
+      "decision": "APPROVE",
+      "confidence": 0.9665013437564094
+    },
+    {
+      "transaction_id": 907,
+      "fraud_probability": 0.008583910533842158,
+      "decision": "APPROVE",
+      "confidence": 0.9914160894661579
+    },
+    {
+      "transaction_id": 908,
+      "fraud_probability": 0.015123537061118339,
+      "decision": "APPROVE",
+      "confidence": 0.9848764629388816
+    },
+    {
+      "transaction_id": 909,
+      "fraud_probability": 0.06054823472378343,
+      "decision": "APPROVE",
+      "confidence": 0.9394517652762165
+    },
+    {
+      "transaction_id": 910,
+      "fraud_probability": 0.017288583509513747,
+      "decision": "APPROVE",
+      "confidence": 0.9827114164904862
+    },
+    {
+      "transaction_id": 911,
+      "fraud_probability": 0.026039451030529973,
+      "decision": "APPROVE",
+      "confidence": 0.97396054896947
+    },
+    {
+      "transaction_id": 912,
+      "fraud_probability": 0.05292891524609592,
+      "decision": "APPROVE",
+      "confidence": 0.9470710847539041
+    },
+    {
+      "transaction_id": 913,
+      "fraud_probability": 0.06925250033456058,
+      "decision": "APPROVE",
+      "confidence": 0.9307474996654395
+    },
+    {
+      "transaction_id": 914,
+      "fraud_probability": 0.039704433497536946,
+      "decision": "APPROVE",
+      "confidence": 0.9602955665024631
+    },
+    {
+      "transaction_id": 915,
+      "fraud_probability": 0.015334848744810862,
+      "decision": "APPROVE",
+      "confidence": 0.9846651512551892
+    },
+    {
+      "transaction_id": 916,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 917,
+      "fraud_probability": 0.08481173542526657,
+      "decision": "APPROVE",
+      "confidence": 0.9151882645747335
+    },
+    {
+      "transaction_id": 918,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 919,
+      "fraud_probability": 0.01790016144897536,
+      "decision": "APPROVE",
+      "confidence": 0.9820998385510247
+    },
+    {
+      "transaction_id": 920,
+      "fraud_probability": 0.012378512715311546,
+      "decision": "APPROVE",
+      "confidence": 0.9876214872846885
+    },
+    {
+      "transaction_id": 921,
+      "fraud_probability": 0.0999367962595849,
+      "decision": "APPROVE",
+      "confidence": 0.900063203740415
+    },
+    {
+      "transaction_id": 922,
+      "fraud_probability": 0.09441393304420537,
+      "decision": "APPROVE",
+      "confidence": 0.9055860669557947
+    },
+    {
+      "transaction_id": 923,
+      "fraud_probability": 0.011193182057020957,
+      "decision": "APPROVE",
+      "confidence": 0.9888068179429791
+    },
+    {
+      "transaction_id": 924,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": 925,
+      "fraud_probability": 0.034539262500758755,
+      "decision": "APPROVE",
+      "confidence": 0.9654607374992412
+    },
+    {
+      "transaction_id": 926,
+      "fraud_probability": 0.0032242225859247186,
+      "decision": "APPROVE",
+      "confidence": 0.9967757774140753
+    },
+    {
+      "transaction_id": 927,
+      "fraud_probability": 0.01638827395364926,
+      "decision": "APPROVE",
+      "confidence": 0.9836117260463507
+    },
+    {
+      "transaction_id": 928,
+      "fraud_probability": 0.023274193128775714,
+      "decision": "APPROVE",
+      "confidence": 0.9767258068712242
+    },
+    {
+      "transaction_id": 929,
+      "fraud_probability": 0.04311323412041388,
+      "decision": "APPROVE",
+      "confidence": 0.9568867658795861
+    },
+    {
+      "transaction_id": 930,
+      "fraud_probability": 0.04516479182691428,
+      "decision": "APPROVE",
+      "confidence": 0.9548352081730858
+    },
+    {
+      "transaction_id": 931,
+      "fraud_probability": 0.004377777777777783,
+      "decision": "APPROVE",
+      "confidence": 0.9956222222222222
+    },
+    {
+      "transaction_id": 932,
+      "fraud_probability": 0.013194306001228917,
+      "decision": "APPROVE",
+      "confidence": 0.986805693998771
+    },
+    {
+      "transaction_id": 933,
+      "fraud_probability": 0.03903737133360177,
+      "decision": "APPROVE",
+      "confidence": 0.9609626286663983
+    },
+    {
+      "transaction_id": 934,
+      "fraud_probability": 0.010994354477488548,
+      "decision": "APPROVE",
+      "confidence": 0.9890056455225115
+    },
+    {
+      "transaction_id": 935,
+      "fraud_probability": 0.09660968409804266,
+      "decision": "APPROVE",
+      "confidence": 0.9033903159019574
+    },
+    {
+      "transaction_id": 936,
+      "fraud_probability": 0.04989732892660825,
+      "decision": "APPROVE",
+      "confidence": 0.9501026710733917
+    },
+    {
+      "transaction_id": 937,
+      "fraud_probability": 0.012920137059994246,
+      "decision": "APPROVE",
+      "confidence": 0.9870798629400057
+    },
+    {
+      "transaction_id": 938,
+      "fraud_probability": 0.01864778906156343,
+      "decision": "APPROVE",
+      "confidence": 0.9813522109384366
+    },
+    {
+      "transaction_id": 939,
+      "fraud_probability": 0.028708279047098807,
+      "decision": "APPROVE",
+      "confidence": 0.9712917209529012
+    },
+    {
+      "transaction_id": 940,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 941,
+      "fraud_probability": 0.0636537778123093,
+      "decision": "APPROVE",
+      "confidence": 0.9363462221876907
+    },
+    {
+      "transaction_id": 942,
+      "fraud_probability": 0.01757097184520635,
+      "decision": "APPROVE",
+      "confidence": 0.9824290281547936
+    },
+    {
+      "transaction_id": 943,
+      "fraud_probability": 0.005256837891927958,
+      "decision": "APPROVE",
+      "confidence": 0.994743162108072
+    },
+    {
+      "transaction_id": 944,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 945,
+      "fraud_probability": 0.019649983682020117,
+      "decision": "APPROVE",
+      "confidence": 0.9803500163179799
+    },
+    {
+      "transaction_id": 946,
+      "fraud_probability": 0.03259624922721873,
+      "decision": "APPROVE",
+      "confidence": 0.9674037507727813
+    },
+    {
+      "transaction_id": 947,
+      "fraud_probability": 0.021223630677282314,
+      "decision": "APPROVE",
+      "confidence": 0.9787763693227177
+    },
+    {
+      "transaction_id": 948,
+      "fraud_probability": 0.006138667349248264,
+      "decision": "APPROVE",
+      "confidence": 0.9938613326507517
+    },
+    {
+      "transaction_id": 949,
+      "fraud_probability": 0.011981298164472807,
+      "decision": "APPROVE",
+      "confidence": 0.9880187018355272
+    },
+    {
+      "transaction_id": 950,
+      "fraud_probability": 0.010625548227146248,
+      "decision": "APPROVE",
+      "confidence": 0.9893744517728538
+    },
+    {
+      "transaction_id": 951,
+      "fraud_probability": 0.11288598841854788,
+      "decision": "APPROVE",
+      "confidence": 0.8871140115814521
+    },
+    {
+      "transaction_id": 952,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": 953,
+      "fraud_probability": 0.004130386339374576,
+      "decision": "APPROVE",
+      "confidence": 0.9958696136606254
+    },
+    {
+      "transaction_id": 954,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": 955,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 956,
+      "fraud_probability": 0.02033200107402402,
+      "decision": "APPROVE",
+      "confidence": 0.979667998925976
+    },
+    {
+      "transaction_id": 957,
+      "fraud_probability": 0.009421985674271448,
+      "decision": "APPROVE",
+      "confidence": 0.9905780143257286
+    },
+    {
+      "transaction_id": 958,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 959,
+      "fraud_probability": 0.019126709743768573,
+      "decision": "APPROVE",
+      "confidence": 0.9808732902562314
+    },
+    {
+      "transaction_id": 960,
+      "fraud_probability": 0.012102671996633712,
+      "decision": "APPROVE",
+      "confidence": 0.9878973280033663
+    },
+    {
+      "transaction_id": 961,
+      "fraud_probability": 0.029452600840983487,
+      "decision": "APPROVE",
+      "confidence": 0.9705473991590166
+    },
+    {
+      "transaction_id": 962,
+      "fraud_probability": 0.024268428632014585,
+      "decision": "APPROVE",
+      "confidence": 0.9757315713679854
+    },
+    {
+      "transaction_id": 963,
+      "fraud_probability": 0.05865054881183914,
+      "decision": "APPROVE",
+      "confidence": 0.9413494511881608
+    },
+    {
+      "transaction_id": 964,
+      "fraud_probability": 0.015241678891647252,
+      "decision": "APPROVE",
+      "confidence": 0.9847583211083527
+    },
+    {
+      "transaction_id": 965,
+      "fraud_probability": 0.015586537682303477,
+      "decision": "APPROVE",
+      "confidence": 0.9844134623176966
+    },
+    {
+      "transaction_id": 966,
+      "fraud_probability": 0.0016723259762309033,
+      "decision": "APPROVE",
+      "confidence": 0.9983276740237691
+    },
+    {
+      "transaction_id": 967,
+      "fraud_probability": 0.0026092715231787996,
+      "decision": "APPROVE",
+      "confidence": 0.9973907284768212
+    },
+    {
+      "transaction_id": 968,
+      "fraud_probability": 0.032490654359530094,
+      "decision": "APPROVE",
+      "confidence": 0.9675093456404699
+    },
+    {
+      "transaction_id": 969,
+      "fraud_probability": 0.019889531898149782,
+      "decision": "APPROVE",
+      "confidence": 0.9801104681018502
+    },
+    {
+      "transaction_id": 970,
+      "fraud_probability": 0.01700539812781172,
+      "decision": "APPROVE",
+      "confidence": 0.9829946018721882
+    },
+    {
+      "transaction_id": 971,
+      "fraud_probability": 0.06843168398398501,
+      "decision": "APPROVE",
+      "confidence": 0.931568316016015
+    },
+    {
+      "transaction_id": 972,
+      "fraud_probability": 0.014176613392021902,
+      "decision": "APPROVE",
+      "confidence": 0.9858233866079781
+    },
+    {
+      "transaction_id": 973,
+      "fraud_probability": 0.0010217842323651423,
+      "decision": "APPROVE",
+      "confidence": 0.9989782157676349
+    },
+    {
+      "transaction_id": 974,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 975,
+      "fraud_probability": 0.03689465105492993,
+      "decision": "APPROVE",
+      "confidence": 0.96310534894507
+    },
+    {
+      "transaction_id": 976,
+      "fraud_probability": 0.0231311393974296,
+      "decision": "APPROVE",
+      "confidence": 0.9768688606025704
+    },
+    {
+      "transaction_id": 977,
+      "fraud_probability": 0.028747938872427062,
+      "decision": "APPROVE",
+      "confidence": 0.9712520611275729
+    },
+    {
+      "transaction_id": 978,
+      "fraud_probability": 0.005701881331403768,
+      "decision": "APPROVE",
+      "confidence": 0.9942981186685962
+    },
+    {
+      "transaction_id": 979,
+      "fraud_probability": 0.009704433497536948,
+      "decision": "APPROVE",
+      "confidence": 0.9902955665024631
+    },
+    {
+      "transaction_id": 980,
+      "fraud_probability": 0.01792687909187864,
+      "decision": "APPROVE",
+      "confidence": 0.9820731209081214
+    },
+    {
+      "transaction_id": 981,
+      "fraud_probability": 0.009170595044638529,
+      "decision": "APPROVE",
+      "confidence": 0.9908294049553614
+    },
+    {
+      "transaction_id": 982,
+      "fraud_probability": 0.017613904324422544,
+      "decision": "APPROVE",
+      "confidence": 0.9823860956755774
+    },
+    {
+      "transaction_id": 983,
+      "fraud_probability": 0.0592605414985245,
+      "decision": "APPROVE",
+      "confidence": 0.9407394585014754
+    },
+    {
+      "transaction_id": 984,
+      "fraud_probability": 0.0841525652336432,
+      "decision": "APPROVE",
+      "confidence": 0.9158474347663568
+    },
+    {
+      "transaction_id": 985,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": 986,
+      "fraud_probability": 0.009039832360195682,
+      "decision": "APPROVE",
+      "confidence": 0.9909601676398043
+    },
+    {
+      "transaction_id": 987,
+      "fraud_probability": 0.023006427617613845,
+      "decision": "APPROVE",
+      "confidence": 0.9769935723823862
+    },
+    {
+      "transaction_id": 988,
+      "fraud_probability": 0.035531261333781525,
+      "decision": "APPROVE",
+      "confidence": 0.9644687386662185
+    },
+    {
+      "transaction_id": 989,
+      "fraud_probability": 0.022844692622291368,
+      "decision": "APPROVE",
+      "confidence": 0.9771553073777086
+    },
+    {
+      "transaction_id": 990,
+      "fraud_probability": 0.011142302862823424,
+      "decision": "APPROVE",
+      "confidence": 0.9888576971371765
+    },
+    {
+      "transaction_id": 991,
+      "fraud_probability": 0.009350341145060802,
+      "decision": "APPROVE",
+      "confidence": 0.9906496588549392
+    },
+    {
+      "transaction_id": 992,
+      "fraud_probability": 0.0126092715231788,
+      "decision": "APPROVE",
+      "confidence": 0.9873907284768212
+    },
+    {
+      "transaction_id": 993,
+      "fraud_probability": 0.0335680326013131,
+      "decision": "APPROVE",
+      "confidence": 0.9664319673986869
+    },
+    {
+      "transaction_id": 994,
+      "fraud_probability": 0.005116883116883122,
+      "decision": "APPROVE",
+      "confidence": 0.9948831168831169
+    },
+    {
+      "transaction_id": 995,
+      "fraud_probability": 0.015752994154899,
+      "decision": "APPROVE",
+      "confidence": 0.984247005845101
+    },
+    {
+      "transaction_id": 996,
+      "fraud_probability": 0.020744278612451428,
+      "decision": "APPROVE",
+      "confidence": 0.9792557213875486
+    },
+    {
+      "transaction_id": 997,
+      "fraud_probability": 0.0026092715231787996,
+      "decision": "APPROVE",
+      "confidence": 0.9973907284768212
+    },
+    {
+      "transaction_id": 998,
+      "fraud_probability": 0.014448437956890669,
+      "decision": "APPROVE",
+      "confidence": 0.9855515620431093
+    },
+    {
+      "transaction_id": 999,
+      "fraud_probability": 0.014471175669541527,
+      "decision": "APPROVE",
+      "confidence": 0.9855288243304585
+    },
+    {
+      "transaction_id": 1000,
+      "fraud_probability": 0.010863901113869468,
+      "decision": "APPROVE",
+      "confidence": 0.9891360988861305
+    }
+  ]
+}

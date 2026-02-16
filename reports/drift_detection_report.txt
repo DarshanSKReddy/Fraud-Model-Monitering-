@@ -1,0 +1,90 @@
+# DATA DRIFT DETECTION REPORT
+Generated: 2026-02-16 16:18:53
+
+## Executive Summary
+- Total Features Monitored: 7
+- Features with Drift: 0 (0.0%)
+- Overall Status: ✓ NO DRIFT DETECTED
+
+## Drift Detection Methodology
+- PSI (Population Stability Index) Threshold: 0.1
+  - PSI > 0.1 suggests moderate drift
+- KS Test P-value Threshold: 0.05
+  - P-value < 0.05 indicates statistically significant distribution shift
+
+## Feature Status
+
+### amount - ✓ OK
+- PSI Score: 0.006535
+- KS Statistic: 0.020000
+- KS P-value: 0.540148
+- Train Mean: 177.0183
+- Test Mean: 171.6760
+- Mean Change: 5.3423
+
+### cardholder_age - ✓ OK
+- PSI Score: 0.005093
+- KS Statistic: 0.019125
+- KS P-value: 0.597877
+- Train Mean: 43.4514
+- Test Mean: 43.5380
+- Mean Change: 0.0866
+
+### transaction_hour - ✓ OK
+- PSI Score: 0.004685
+- KS Statistic: 0.027125
+- KS P-value: 0.187693
+- Train Mean: 11.6419
+- Test Mean: 11.3990
+- Mean Change: 0.2429
+
+### device_trust_score - ✓ OK
+- PSI Score: 0.001967
+- KS Statistic: 0.018625
+- KS P-value: 0.631455
+- Train Mean: 61.7066
+- Test Mean: 62.1680
+- Mean Change: 0.4614
+
+### velocity_last_24h - ✓ OK
+- PSI Score: 0.000593
+- KS Statistic: 0.006500
+- KS P-value: 1.000000
+- Train Mean: 2.0060
+- Test Mean: 2.0205
+- Mean Change: 0.0145
+
+### foreign_transaction - ✓ OK
+- PSI Score: 0.000000
+- KS Statistic: 0.005250
+- KS P-value: 1.000000
+- Train Mean: 0.0968
+- Test Mean: 0.1020
+- Mean Change: 0.0052
+
+### location_mismatch - ✓ OK
+- PSI Score: 0.000000
+- KS Statistic: 0.008375
+- KS P-value: 0.999854
+- Train Mean: 0.0874
+- Test Mean: 0.0790
+- Mean Change: 0.0084
+
+
+## Key Findings
+**Status:** All monitored features show stable distributions. Model continues
+to perform reliably with current data conditions.
+
+## Recommendations
+1. Continue weekly monitoring
+2. Set up alerts for PSI > {PSI_THRESHOLD}
+3. Archive baseline statistics for future comparisons
+4. Schedule monthly drift reviews
+
+
+## Data Summary
+- Training Set: 8000 records (80.0%)
+- Test/Monitoring Set: 2000 records (20.0%)
+
+---
+Report Generated: 2026-02-16 16:18:53 UTC

@@ -1,0 +1,88 @@
+{
+  "timestamp": "2026-02-16T16:18:53.594655",
+  "total_features_checked": 7,
+  "features_with_drift": [],
+  "drift_count": 0,
+  "drift_percentage": 0.0,
+  "feature_details": {
+    "amount": {
+      "feature": "amount",
+      "psi": 0.006534829408553962,
+      "ks_statistic": 0.02,
+      "ks_pvalue": 0.5401476562409842,
+      "drift_detected": false,
+      "train_mean": 177.0183025,
+      "test_mean": 171.676035,
+      "train_std": 177.03157087916125,
+      "test_std": 168.5654110006818
+    },
+    "transaction_hour": {
+      "feature": "transaction_hour",
+      "psi": 0.004685086096683653,
+      "ks_statistic": 0.027125,
+      "ks_pvalue": 0.18769258906640574,
+      "drift_detected": false,
+      "train_mean": 11.641875,
+      "test_mean": 11.399,
+      "train_std": 6.916293912520997,
+      "test_std": 6.943183635768249
+    },
+    "foreign_transaction": {
+      "feature": "foreign_transaction",
+      "psi": 0.0,
+      "ks_statistic": 0.00525,
+      "ks_pvalue": 0.9999999999845831,
+      "drift_detected": false,
+      "train_mean": 0.09675,
+      "test_mean": 0.102,
+      "train_std": 0.29561704534752387,
+      "test_std": 0.3026483107502832
+    },
+    "location_mismatch": {
+      "feature": "location_mismatch",
+      "psi": 0.0,
+      "ks_statistic": 0.008375,
+      "ks_pvalue": 0.9998540612950896,
+      "drift_detected": false,
+      "train_mean": 0.087375,
+      "test_mean": 0.079,
+      "train_std": 0.28238379800370983,
+      "test_std": 0.26973876250921003
+    },
+    "device_trust_score": {
+      "feature": "device_trust_score",
+      "psi": 0.001967214830251117,
+      "ks_statistic": 0.018625,
+      "ks_pvalue": 0.6314554840786611,
+      "drift_detected": false,
+      "train_mean": 61.706625,
+      "test_mean": 62.168,
+      "train_std": 21.501402421920645,
+      "test_std": 21.420195517314962
+    },
+    "velocity_last_24h": {
+      "feature": "velocity_last_24h",
+      "psi": 0.0005929275496092009,
+      "ks_statistic": 0.0065,
+      "ks_pvalue": 0.9999998428145436,
+      "drift_detected": false,
+      "train_mean": 2.006,
+      "test_mean": 2.0205,
+      "train_std": 1.4315949147716334,
+      "test_std": 1.4359943419108585
+    },
+    "cardholder_age": {
+      "feature": "cardholder_age",
+      "psi": 0.005093071724098135,
+      "ks_statistic": 0.019125,
+      "ks_pvalue": 0.597877478101458,
+      "drift_detected": false,
+      "train_mean": 43.451375,
+      "test_mean": 43.538,
+      "train_std": 15.056215846266783,
+      "test_std": 14.662794958670055
+    }
+  },
+  "psi_threshold": 0.1,
+  "ks_threshold": 0.05
+}

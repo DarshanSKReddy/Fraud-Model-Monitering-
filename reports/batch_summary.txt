@@ -1,0 +1,39 @@
+# BATCH PREDICTION SUMMARY REPORT
+Generated: 2026-02-16 16:17:49
+
+## Overview
+- Total Transactions Scored: 10000
+- Scoring Date: 2026-02-16T16:17:49.985754
+- Model Threshold: 0.29
+
+## Predictions
+- BLOCK (Fraud Suspected): 0 (0.00%)
+- APPROVE (Legitimate): 10000 (100.00%)
+
+## Fraud Stats
+- Actual Frauds in Dataset: 151
+- Detection Rate (Recall): 0.00%
+- False Positive Rate: 0.00% (if approved transactions)
+
+## Performance Metrics
+- True Positives (Frauds Caught): 0
+- False Positives (False Alarms): 0
+- False Negatives (Missed Frauds): 151
+- Precision: nan if 0 > 0 else "N/A"
+
+## Probability Distribution
+- Min Fraud Probability: 0.0000
+- Max Fraud Probability: 0.2887
+- Mean Fraud Probability: 0.0250
+- Median Fraud Probability: 0.0172
+
+## Recommendations
+1. Review top 0 flagged transactions manually
+2. Monitor false positive rate weekly
+3. Update threshold if detection rate drops below target
+4. Log all predictions for model monitoring
+
+## Files Generated
+- reports/batch_predictions.json - JSON predictions sample
+- reports/batch_predictions_full.csv - Full predictions CSV
+- reports/batch_summary.txt - This report
