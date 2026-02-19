@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-16T21:49:03.378731",
+  "timestamp": "2026-02-19T21:04:08.576579",
   "n_transactions": 50,
   "approved": 50,
   "blocked": 0,
@@ -7,404 +7,404 @@
   "threshold": 0.29,
   "predictions": [
     {
-      "transaction_id": "TXN_20260216_214902_00000",
-      "timestamp": "2026-02-16T21:49:02.689075",
-      "amount": 47.92680899768591,
+      "transaction_id": "TXN_20260219_210407_00000",
+      "timestamp": "2026-02-19T21:04:07.844692",
+      "amount": 13.046114948434939,
       "fraud_probability": 0.05,
       "decision": "APPROVE",
       "confidence": 0.95
     },
     {
-      "transaction_id": "TXN_20260216_214902_00001",
-      "timestamp": "2026-02-16T21:49:03.689151",
-      "amount": 92.90821536272645,
-      "fraud_probability": 0.06,
+      "transaction_id": "TXN_20260219_210407_00001",
+      "timestamp": "2026-02-19T21:04:08.844767",
+      "amount": 73.15643592897537,
+      "fraud_probability": 0.03,
       "decision": "APPROVE",
-      "confidence": 0.94
+      "confidence": 0.97
     },
     {
-      "transaction_id": "TXN_20260216_214902_00002",
-      "timestamp": "2026-02-16T21:49:04.689194",
-      "amount": 97.09782860413563,
-      "fraud_probability": 0.07,
+      "transaction_id": "TXN_20260219_210407_00002",
+      "timestamp": "2026-02-19T21:04:09.844811",
+      "amount": 138.54131760395282,
+      "fraud_probability": 0.05,
       "decision": "APPROVE",
-      "confidence": 0.9299999999999999
+      "confidence": 0.95
     },
     {
-      "transaction_id": "TXN_20260216_214902_00003",
-      "timestamp": "2026-02-16T21:49:05.689231",
-      "amount": 27.497040005002436,
-      "fraud_probability": 0.06,
+      "transaction_id": "TXN_20260219_210407_00003",
+      "timestamp": "2026-02-19T21:04:10.844849",
+      "amount": 3.897092273612078,
+      "fraud_probability": 0.03,
       "decision": "APPROVE",
-      "confidence": 0.94
+      "confidence": 0.97
     },
     {
-      "transaction_id": "TXN_20260216_214902_00004",
-      "timestamp": "2026-02-16T21:49:06.689268",
-      "amount": 115.03958033876012,
-      "fraud_probability": 0.15,
-      "decision": "APPROVE",
-      "confidence": 0.85
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00005",
-      "timestamp": "2026-02-16T21:49:07.689303",
-      "amount": 116.27507630986618,
-      "fraud_probability": 0.09,
-      "decision": "APPROVE",
-      "confidence": 0.91
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00006",
-      "timestamp": "2026-02-16T21:49:08.689338",
-      "amount": 24.3120231885617,
+      "transaction_id": "TXN_20260219_210407_00004",
+      "timestamp": "2026-02-19T21:04:11.844885",
+      "amount": 21.592557913192657,
       "fraud_probability": 0.01,
       "decision": "APPROVE",
       "confidence": 0.99
     },
     {
-      "transaction_id": "TXN_20260216_214902_00007",
-      "timestamp": "2026-02-16T21:49:09.689373",
-      "amount": 5.628196568683196,
+      "transaction_id": "TXN_20260219_210407_00005",
+      "timestamp": "2026-02-19T21:04:12.844920",
+      "amount": 18.396626702600983,
+      "fraud_probability": 0.05,
+      "decision": "APPROVE",
+      "confidence": 0.95
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00006",
+      "timestamp": "2026-02-19T21:04:13.844954",
+      "amount": 33.36007201823066,
       "fraud_probability": 0.03,
       "decision": "APPROVE",
       "confidence": 0.97
     },
     {
-      "transaction_id": "TXN_20260216_214902_00008",
-      "timestamp": "2026-02-16T21:49:10.689406",
-      "amount": 19.06432927428257,
-      "fraud_probability": 0.03,
-      "decision": "APPROVE",
-      "confidence": 0.97
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00009",
-      "timestamp": "2026-02-16T21:49:11.689440",
-      "amount": 106.2904084582266,
+      "transaction_id": "TXN_20260219_210407_00007",
+      "timestamp": "2026-02-19T21:04:14.844987",
+      "amount": 104.28194608626279,
       "fraud_probability": 0.02,
       "decision": "APPROVE",
       "confidence": 0.98
     },
     {
-      "transaction_id": "TXN_20260216_214902_00010",
-      "timestamp": "2026-02-16T21:49:12.689473",
-      "amount": 83.38105204914145,
-      "fraud_probability": 0.038454935622317596,
-      "decision": "APPROVE",
-      "confidence": 0.9615450643776824
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00011",
-      "timestamp": "2026-02-16T21:49:13.689508",
-      "amount": 56.781419390842736,
-      "fraud_probability": 0.04,
-      "decision": "APPROVE",
-      "confidence": 0.96
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00012",
-      "timestamp": "2026-02-16T21:49:14.689541",
-      "amount": 78.61833954623697,
-      "fraud_probability": 0.01,
-      "decision": "APPROVE",
-      "confidence": 0.99
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00013",
-      "timestamp": "2026-02-16T21:49:15.689574",
-      "amount": 14.02088665616574,
-      "fraud_probability": 0.07,
-      "decision": "APPROVE",
-      "confidence": 0.9299999999999999
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00014",
-      "timestamp": "2026-02-16T21:49:16.689606",
-      "amount": 77.37615503409346,
-      "fraud_probability": 0.02,
-      "decision": "APPROVE",
-      "confidence": 0.98
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00015",
-      "timestamp": "2026-02-16T21:49:17.689637",
-      "amount": 30.29162990591085,
-      "fraud_probability": 0.04,
-      "decision": "APPROVE",
-      "confidence": 0.96
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00016",
-      "timestamp": "2026-02-16T21:49:18.689669",
-      "amount": 239.88609510893403,
+      "transaction_id": "TXN_20260219_210407_00008",
+      "timestamp": "2026-02-19T21:04:15.845019",
+      "amount": 382.52662997737974,
       "fraud_probability": 0.05,
       "decision": "APPROVE",
       "confidence": 0.95
     },
     {
-      "transaction_id": "TXN_20260216_214902_00017",
-      "timestamp": "2026-02-16T21:49:19.689702",
-      "amount": 46.8522799264304,
-      "fraud_probability": 0.05,
-      "decision": "APPROVE",
-      "confidence": 0.95
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00018",
-      "timestamp": "2026-02-16T21:49:20.689734",
-      "amount": 40.44641984179603,
-      "fraud_probability": 0.03,
-      "decision": "APPROVE",
-      "confidence": 0.97
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00019",
-      "timestamp": "2026-02-16T21:49:21.689765",
-      "amount": 277.0343817804307,
-      "fraud_probability": 0.05,
-      "decision": "APPROVE",
-      "confidence": 0.95
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00020",
-      "timestamp": "2026-02-16T21:49:22.689798",
-      "amount": 559.6986528125187,
-      "fraud_probability": 0.08,
-      "decision": "APPROVE",
-      "confidence": 0.92
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00021",
-      "timestamp": "2026-02-16T21:49:23.689830",
-      "amount": 154.87029311670474,
-      "fraud_probability": 0.0,
-      "decision": "APPROVE",
-      "confidence": 1.0
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00022",
-      "timestamp": "2026-02-16T21:49:24.689863",
-      "amount": 106.54414821352486,
-      "fraud_probability": 0.03,
-      "decision": "APPROVE",
-      "confidence": 0.97
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00023",
-      "timestamp": "2026-02-16T21:49:25.689895",
-      "amount": 102.15156153275294,
-      "fraud_probability": 0.05,
-      "decision": "APPROVE",
-      "confidence": 0.95
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00024",
-      "timestamp": "2026-02-16T21:49:26.689927",
-      "amount": 33.957736836626296,
-      "fraud_probability": 0.02,
-      "decision": "APPROVE",
-      "confidence": 0.98
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00025",
-      "timestamp": "2026-02-16T21:49:27.689960",
-      "amount": 332.37354761302055,
-      "fraud_probability": 0.04,
-      "decision": "APPROVE",
-      "confidence": 0.96
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00026",
-      "timestamp": "2026-02-16T21:49:28.689994",
-      "amount": 186.92664926604465,
-      "fraud_probability": 0.02,
-      "decision": "APPROVE",
-      "confidence": 0.98
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00027",
-      "timestamp": "2026-02-16T21:49:29.690027",
-      "amount": 15.6901902492152,
-      "fraud_probability": 0.05,
-      "decision": "APPROVE",
-      "confidence": 0.95
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00028",
-      "timestamp": "2026-02-16T21:49:30.690059",
-      "amount": 87.48015834977011,
-      "fraud_probability": 0.05,
-      "decision": "APPROVE",
-      "confidence": 0.95
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00029",
-      "timestamp": "2026-02-16T21:49:31.690117",
-      "amount": 4.960891229942073,
-      "fraud_probability": 0.03,
-      "decision": "APPROVE",
-      "confidence": 0.97
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00030",
-      "timestamp": "2026-02-16T21:49:32.690157",
-      "amount": 78.79104426947421,
-      "fraud_probability": 0.02985,
-      "decision": "APPROVE",
-      "confidence": 0.97015
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00031",
-      "timestamp": "2026-02-16T21:49:33.690190",
-      "amount": 32.58514654361373,
-      "fraud_probability": 0.14,
-      "decision": "APPROVE",
-      "confidence": 0.86
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00032",
-      "timestamp": "2026-02-16T21:49:34.690222",
-      "amount": 59.402775199144706,
-      "fraud_probability": 0.09,
-      "decision": "APPROVE",
-      "confidence": 0.91
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00033",
-      "timestamp": "2026-02-16T21:49:35.690255",
-      "amount": 18.274331215725724,
-      "fraud_probability": 0.07,
-      "decision": "APPROVE",
-      "confidence": 0.9299999999999999
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00034",
-      "timestamp": "2026-02-16T21:49:36.690288",
-      "amount": 68.65179657972332,
-      "fraud_probability": 0.01,
-      "decision": "APPROVE",
-      "confidence": 0.99
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00035",
-      "timestamp": "2026-02-16T21:49:37.690320",
-      "amount": 2.542286357518888,
-      "fraud_probability": 0.03,
-      "decision": "APPROVE",
-      "confidence": 0.97
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00036",
-      "timestamp": "2026-02-16T21:49:38.690352",
-      "amount": 79.88143605763202,
-      "fraud_probability": 0.01,
-      "decision": "APPROVE",
-      "confidence": 0.99
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00037",
-      "timestamp": "2026-02-16T21:49:39.690385",
-      "amount": 48.362471061940404,
-      "fraud_probability": 0.03,
-      "decision": "APPROVE",
-      "confidence": 0.97
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00038",
-      "timestamp": "2026-02-16T21:49:40.690417",
-      "amount": 31.20440851694574,
-      "fraud_probability": 0.05938095238095238,
-      "decision": "APPROVE",
-      "confidence": 0.9406190476190476
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00039",
-      "timestamp": "2026-02-16T21:49:41.690449",
-      "amount": 163.69958059939782,
-      "fraud_probability": 0.0,
-      "decision": "APPROVE",
-      "confidence": 1.0
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00040",
-      "timestamp": "2026-02-16T21:49:42.690481",
-      "amount": 42.67336709307531,
-      "fraud_probability": 0.03,
-      "decision": "APPROVE",
-      "confidence": 0.97
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00041",
-      "timestamp": "2026-02-16T21:49:43.690514",
-      "amount": 50.36704295609676,
-      "fraud_probability": 0.04,
-      "decision": "APPROVE",
-      "confidence": 0.96
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00042",
-      "timestamp": "2026-02-16T21:49:44.690541",
-      "amount": 60.50146636228576,
-      "fraud_probability": 0.03,
-      "decision": "APPROVE",
-      "confidence": 0.97
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00043",
-      "timestamp": "2026-02-16T21:49:45.690562",
-      "amount": 551.4417493257638,
-      "fraud_probability": 0.06,
-      "decision": "APPROVE",
-      "confidence": 0.94
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00044",
-      "timestamp": "2026-02-16T21:49:46.690584",
-      "amount": 56.52852595556702,
-      "fraud_probability": 0.07,
-      "decision": "APPROVE",
-      "confidence": 0.9299999999999999
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00045",
-      "timestamp": "2026-02-16T21:49:47.690606",
-      "amount": 427.8773939601984,
-      "fraud_probability": 0.08,
-      "decision": "APPROVE",
-      "confidence": 0.92
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00046",
-      "timestamp": "2026-02-16T21:49:48.690628",
-      "amount": 30.260372912327963,
-      "fraud_probability": 0.03,
-      "decision": "APPROVE",
-      "confidence": 0.97
-    },
-    {
-      "transaction_id": "TXN_20260216_214902_00047",
-      "timestamp": "2026-02-16T21:49:49.690651",
-      "amount": 34.646915742055874,
+      "transaction_id": "TXN_20260219_210407_00009",
+      "timestamp": "2026-02-19T21:04:16.845053",
+      "amount": 52.18615677529079,
       "fraud_probability": 0.1,
       "decision": "APPROVE",
       "confidence": 0.9
     },
     {
-      "transaction_id": "TXN_20260216_214902_00048",
-      "timestamp": "2026-02-16T21:49:50.690673",
-      "amount": 5.43707665719153,
+      "transaction_id": "TXN_20260219_210407_00010",
+      "timestamp": "2026-02-19T21:04:17.845086",
+      "amount": 80.96181441695043,
       "fraud_probability": 0.03,
       "decision": "APPROVE",
       "confidence": 0.97
     },
     {
-      "transaction_id": "TXN_20260216_214902_00049",
-      "timestamp": "2026-02-16T21:49:51.690694",
-      "amount": 119.99012381167742,
+      "transaction_id": "TXN_20260219_210407_00011",
+      "timestamp": "2026-02-19T21:04:18.845121",
+      "amount": 52.927333496544456,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00012",
+      "timestamp": "2026-02-19T21:04:19.845154",
+      "amount": 125.30668112610468,
       "fraud_probability": 0.04,
       "decision": "APPROVE",
       "confidence": 0.96
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00013",
+      "timestamp": "2026-02-19T21:04:20.845188",
+      "amount": 51.596851359196116,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00014",
+      "timestamp": "2026-02-19T21:04:21.845220",
+      "amount": 333.14738927145834,
+      "fraud_probability": 0.11,
+      "decision": "APPROVE",
+      "confidence": 0.89
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00015",
+      "timestamp": "2026-02-19T21:04:22.845253",
+      "amount": 57.616816279522055,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00016",
+      "timestamp": "2026-02-19T21:04:23.845286",
+      "amount": 16.305813012810304,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00017",
+      "timestamp": "2026-02-19T21:04:24.845319",
+      "amount": 3.222872428796381,
+      "fraud_probability": 0.04,
+      "decision": "APPROVE",
+      "confidence": 0.96
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00018",
+      "timestamp": "2026-02-19T21:04:25.845352",
+      "amount": 180.2609886387706,
+      "fraud_probability": 0.05,
+      "decision": "APPROVE",
+      "confidence": 0.95
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00019",
+      "timestamp": "2026-02-19T21:04:26.845384",
+      "amount": 95.26148894882338,
+      "fraud_probability": 0.04,
+      "decision": "APPROVE",
+      "confidence": 0.96
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00020",
+      "timestamp": "2026-02-19T21:04:27.845410",
+      "amount": 29.10433197425397,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00021",
+      "timestamp": "2026-02-19T21:04:28.845433",
+      "amount": 80.52174130080941,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00022",
+      "timestamp": "2026-02-19T21:04:29.845455",
+      "amount": 73.23766078407951,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00023",
+      "timestamp": "2026-02-19T21:04:30.845477",
+      "amount": 54.21736846166688,
+      "fraud_probability": 0.25993945509586275,
+      "decision": "APPROVE",
+      "confidence": 0.7400605449041373
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00024",
+      "timestamp": "2026-02-19T21:04:31.845499",
+      "amount": 190.8625359573094,
+      "fraud_probability": 0.09,
+      "decision": "APPROVE",
+      "confidence": 0.91
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00025",
+      "timestamp": "2026-02-19T21:04:32.845521",
+      "amount": 148.57850689772846,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00026",
+      "timestamp": "2026-02-19T21:04:33.845544",
+      "amount": 104.49285138596053,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00027",
+      "timestamp": "2026-02-19T21:04:34.845566",
+      "amount": 105.94703278438958,
+      "fraud_probability": 0.04,
+      "decision": "APPROVE",
+      "confidence": 0.96
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00028",
+      "timestamp": "2026-02-19T21:04:35.845588",
+      "amount": 90.15541699419921,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00029",
+      "timestamp": "2026-02-19T21:04:36.845610",
+      "amount": 99.44302125019092,
+      "fraud_probability": 0.0,
+      "decision": "APPROVE",
+      "confidence": 1.0
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00030",
+      "timestamp": "2026-02-19T21:04:37.845632",
+      "amount": 48.89843803644944,
+      "fraud_probability": 0.04,
+      "decision": "APPROVE",
+      "confidence": 0.96
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00031",
+      "timestamp": "2026-02-19T21:04:38.845663",
+      "amount": 233.09905655092683,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00032",
+      "timestamp": "2026-02-19T21:04:39.845688",
+      "amount": 33.84176748903788,
+      "fraud_probability": 0.03938095238095238,
+      "decision": "APPROVE",
+      "confidence": 0.9606190476190476
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00033",
+      "timestamp": "2026-02-19T21:04:40.845711",
+      "amount": 40.52475963507696,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00034",
+      "timestamp": "2026-02-19T21:04:41.845733",
+      "amount": 26.893114361907223,
+      "fraud_probability": 0.05,
+      "decision": "APPROVE",
+      "confidence": 0.95
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00035",
+      "timestamp": "2026-02-19T21:04:42.845756",
+      "amount": 45.92171175357891,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00036",
+      "timestamp": "2026-02-19T21:04:43.845778",
+      "amount": 58.07594238166127,
+      "fraud_probability": 0.09,
+      "decision": "APPROVE",
+      "confidence": 0.91
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00037",
+      "timestamp": "2026-02-19T21:04:44.845799",
+      "amount": 52.901188498460705,
+      "fraud_probability": 0.01,
+      "decision": "APPROVE",
+      "confidence": 0.99
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00038",
+      "timestamp": "2026-02-19T21:04:45.845821",
+      "amount": 25.411955336902977,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00039",
+      "timestamp": "2026-02-19T21:04:46.845843",
+      "amount": 137.4417033282053,
+      "fraud_probability": 0.04,
+      "decision": "APPROVE",
+      "confidence": 0.96
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00040",
+      "timestamp": "2026-02-19T21:04:47.845865",
+      "amount": 21.735209247279446,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00041",
+      "timestamp": "2026-02-19T21:04:48.845887",
+      "amount": 73.17404003782157,
+      "fraud_probability": 0.05,
+      "decision": "APPROVE",
+      "confidence": 0.95
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00042",
+      "timestamp": "2026-02-19T21:04:49.845909",
+      "amount": 59.791668898584334,
+      "fraud_probability": 0.20993945509586276,
+      "decision": "APPROVE",
+      "confidence": 0.7900605449041372
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00043",
+      "timestamp": "2026-02-19T21:04:50.845930",
+      "amount": 70.14203518688458,
+      "fraud_probability": 0.06,
+      "decision": "APPROVE",
+      "confidence": 0.94
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00044",
+      "timestamp": "2026-02-19T21:04:51.845952",
+      "amount": 139.87665939728973,
+      "fraud_probability": 0.22,
+      "decision": "APPROVE",
+      "confidence": 0.78
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00045",
+      "timestamp": "2026-02-19T21:04:52.845974",
+      "amount": 84.96990531370486,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00046",
+      "timestamp": "2026-02-19T21:04:53.845997",
+      "amount": 150.9423988180576,
+      "fraud_probability": 0.03,
+      "decision": "APPROVE",
+      "confidence": 0.97
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00047",
+      "timestamp": "2026-02-19T21:04:54.846023",
+      "amount": 51.820550933623984,
+      "fraud_probability": 0.06,
+      "decision": "APPROVE",
+      "confidence": 0.94
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00048",
+      "timestamp": "2026-02-19T21:04:55.846046",
+      "amount": 49.861418564766886,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
+    },
+    {
+      "transaction_id": "TXN_20260219_210407_00049",
+      "timestamp": "2026-02-19T21:04:56.846069",
+      "amount": 162.48051292853162,
+      "fraud_probability": 0.02,
+      "decision": "APPROVE",
+      "confidence": 0.98
     }
   ]
 }

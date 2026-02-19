@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-16T16:17:49.939408",
+  "timestamp": "2026-02-19T15:33:51.726705",
   "total_records": 10000,
   "sample_predictions": [
     {
@@ -124,7 +124,7 @@
     },
     {
       "transaction_id": 21,
-      "fraud_probability": 0.21483689792592137,
+      "fraud_probability": 0.21483689792592142,
       "decision": "APPROVE",
       "confidence": 0.7851631020740786
     },
@@ -1036,7 +1036,7 @@
     },
     {
       "transaction_id": 173,
-      "fraud_probability": 0.030360404045874246,
+      "fraud_probability": 0.030360404045874242,
       "decision": "APPROVE",
       "confidence": 0.9696395959541257
     },
@@ -1144,9 +1144,9 @@
     },
     {
       "transaction_id": 191,
-      "fraud_probability": 0.044405419508995854,
+      "fraud_probability": 0.04440541950899585,
       "decision": "APPROVE",
-      "confidence": 0.9555945804910041
+      "confidence": 0.9555945804910042
     },
     {
       "transaction_id": 192,
@@ -3016,9 +3016,9 @@
     },
     {
       "transaction_id": 503,
-      "fraud_probability": 0.05113903245593481,
+      "fraud_probability": 0.05113903245593482,
       "decision": "APPROVE",
-      "confidence": 0.9488609675440652
+      "confidence": 0.9488609675440651
     },
     {
       "transaction_id": 504,
@@ -3214,7 +3214,7 @@
     },
     {
       "transaction_id": 536,
-      "fraud_probability": 0.083400855700954,
+      "fraud_probability": 0.08340085570095403,
       "decision": "APPROVE",
       "confidence": 0.916599144299046
     },
@@ -3778,7 +3778,7 @@
     },
     {
       "transaction_id": 630,
-      "fraud_probability": 0.10377624241436273,
+      "fraud_probability": 0.10377624241436272,
       "decision": "APPROVE",
       "confidence": 0.8962237575856373
     },
