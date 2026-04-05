@@ -25,6 +25,25 @@ A **complete, production-grade Machine Learning system** for real-time credit ca
 
 ---
 
+## 📋 PRESENTATION MATERIALS (March 28, 2026)
+
+**For the capstone presentation, refer to these documents:**
+
+| Document | Purpose |
+|----------|---------|
+| [PRESENTATION_GUIDE.md](PRESENTATION_GUIDE.md) | **Complete 12-slide presentation guide** with detailed explanations for each section and answers to 12 likely mentor questions |
+| [SPEAKER_NOTES.md](SPEAKER_NOTES.md) | **Full speaker notes with timing** - practice script for each slide with delivery tips |
+| [QUICK_REFERENCE_CARD.md](QUICK_REFERENCE_CARD.md) | **One-page quick reference** - key metrics and talking points (print this for exam day) |
+| [EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md) | **Professional one-page summary** - handout format with all key metrics and visual layout |
+
+**Quick Start for Presentation:**
+1. Read [SPEAKER_NOTES.md](SPEAKER_NOTES.md) - practice speaking through it
+2. Print [QUICK_REFERENCE_CARD.md](QUICK_REFERENCE_CARD.md) - have nearby during presentation
+3. Use [PRESENTATION_GUIDE.md](PRESENTATION_GUIDE.md) - answer any mentor questions
+4. Share [EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md) as handout
+
+---
+
 ## 🎯 Quick Navigation
 
 | Section | What You'll Find |
